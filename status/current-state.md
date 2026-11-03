@@ -21,6 +21,12 @@ The [law-firm intake research package](../opportunities/law-firm-intake/README.m
 
 [Risks and practical mitigations](../opportunities/law-firm-intake/decision-log.md) preserve customer value while making residual cost visible. The [benchmarking plan](../opportunities/law-firm-intake/validation-plan.md) proposes firm-authorized synthetic tests or permitted log audits; none has been executed. There are zero pilot customers, live integrations or measured business outcomes. Buyer demand, counsel review, vendor diligence and implementation testing remain open. See [research-package validation](../opportunities/law-firm-intake/validation.md) for the checks actually completed.
 
+## Outbound AI phone assessment: technical research completed
+
+The [outbound phone-assessment package](../opportunities/outbound-phone-audit/README.md) covers Twilio, Vapi, Retell and Telnyx; build-versus-buy boundaries; carrier versus human-answer evidence; a webhook/state-machine design; recipient-local scheduling; suppression and spend controls; metadata-only retention; and 100/1,000-attempt cost scenarios.
+
+The recommendation is to build the measurement and eligibility layer and evaluate hosted conversation separately. Vapi's documented privacy controls fit the proposed metadata-only default better than assuming Retell has no transient artifacts. This is a proposed architecture, not a selected vendor or an implemented capability. No calls, paid accounts, provider activation or product code were executed. The [verification record](../opportunities/outbound-phone-audit/validation.md) distinguishes source review and arithmetic checks from the repo-local validator and live tests that were not run.
+
 ## Not established yet
 
 | Gap | Why it matters | Next useful evidence |
