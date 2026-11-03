@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "https://github.com/todd-gavin/software-factory",
+  "sourceCommit": "c760cf765e2aa7dd887bf4dbe202490d0f0496ad",
+  "reviewedOn": "2026-11-03",
+  "status": "Vendored reference kit only; not installed or executed.",
+  "reuse": {
+    "standaloneLicenseFound": false,
+    "basis": "Upstream README explicitly invites copying the portable kit into another repository. No standard open-source license is asserted.",
+    "readme": "https://github.com/todd-gavin/software-factory/blob/c760cf765e2aa7dd887bf4dbe202490d0f0496ad/README.md"
+  },
+  "excluded": [
+    {
+      "path": "reference/",
+      "reason": "Filled-in worked example contains unrelated project state and environment identifiers; excluded from this public project."
+    },
+    {
+      "path": "check-drift.sh",
+      "reason": "Depends on the omitted worked-example reference tree and its source repository's live harness."
+    }
+  ],
+  "files": [
+    {
+      "sourcePath": "INSTALL.md",
+      "path": "software-factory/upstream/INSTALL.md",
+      "gitBlobSha": "f3795bd8311740c56b7595b58a3a67375a12bd4e",
+      "bytes": 7877
+    },
+    {
+      "sourcePath": "MANIFEST.md",
+      "path": "software-factory/upstream/MANIFEST.md",
+      "gitBlobSha": "44ba8dcd02b79b50e3ea3dde4bb3f6285417d889",
+      "bytes": 4892
+    },
+    {
+      "sourcePath": "PLACEHOLDERS.md",
+      "path": "software-factory/upstream/PLACEHOLDERS.md",
+      "gitBlobSha": "9d619e1b8b0e81cd18a85ac8a64f82527e2c1573",
+      "bytes": 4723
+    },
+    {
+      "sourcePath": "README.md",
+      "path": "software-factory/upstream/README.md",
+      "gitBlobSha": "33ef10f17acecc63c837b24764b4a4748f5f59f1",
+      "bytes": 6138
+    },
+    {
+      "sourcePath": "doctrine/00-the-factory.md",
+      "path": "software-factory/upstream/doctrine/00-the-factory.md",
+      "gitBlobSha": "fd5fc895da79e7232aacd01946642fb7e26c1599",
+      "bytes": 3643
+    },
+    {
+      "sourcePath": "doctrine/01-context-architecture.md",
+      "path": "software-factory/upstream/doctrine/01-context-architecture.md",
+      "gitBlobSha": "3695fbcee79713b679fd79106bf0681ec6cbd4b7",
+      "bytes": 5056
+    },
+    {
+      "sourcePath": "doctrine/02-branches-and-flow.md",
+      "path": "software-factory/upstream/doctrine/02-branches-and-flow.md",
+      "gitBlobSha": "68243dbb6fcc8402d0944915be16060c5ea21ba1",
+      "bytes": 5694
+    },
+    {
+      "sourcePath": "doctrine/03-execution-discipline.md",
+      "path": "software-factory/upstream/doctrine/03-execution-discipline.md",
+      "gitBlobSha": "1ce5ab8e8ba45781e16aca5cdaea3d81ef07e8aa",
+      "bytes": 5489
+    },
+    {
+      "sourcePath": "doctrine/04-verification-and-done.md",
+      "path": "software-factory/upstream/doctrine/04-verification-and-done.md",
+      "gitBlobSha": "43eb07141c822b88c83f09377df1ec0746fc4fed",
+      "bytes": 4190
+    },
+    {
+      "sourcePath": "doctrine/05-safety-doctrines.md",
+      "path": "software-factory/upstream/doctrine/05-safety-doctrines.md",
+      "gitBlobSha": "2cf2e57eb7eaf271ab417aa5ae6d473d289c6e8b",
+      "bytes": 5870
+    },
+    {
+      "sourcePath": "template/CLAUDE.md.template",
+      "path": "software-factory/upstream/template/CLAUDE.md.template",
+      "gitBlobSha": "70de97dd6a20e0bc7fe5024aa67d2beedba2c907",
+      "bytes": 14121
+    },
+    {
+      "sourcePath": "template/claude/commands/dash.md",
+      "path": "software-factory/upstream/template/claude/commands/dash.md",
+      "gitBlobSha": "6983cc68ef9ca41f1082ab5b3c99e321d7ea7f79",
+      "bytes": 2117
+    },
+    {
+      "sourcePath": "template/claude/commands/report.md",
+      "path": "software-factory/upstream/template/claude/commands/report.md",
+      "gitBlobSha": "835009ba76e168192842c6cbf2ea4377ce9e95f3",
+      "bytes": 6518
+    },
+    {
+      "sourcePath": "template/claude/commands/start.md",
+      "path": "software-factory/upstream/template/claude/commands/start.md",
+      "gitBlobSha": "92016bcdb60a6a311b7ae7634e9f0efe71598e70",
+      "bytes": 4607
+    },
+    {
+      "sourcePath": "template/claude/skills/README.md",
+      "path": "software-factory/upstream/template/claude/skills/README.md",
+      "gitBlobSha": "c263bea25e28c094140c9f94bd8c9d6881528c9b",
+      "bytes": 1412
+    },
+    {
+      "sourcePath": "template/claude/skills/branch-and-pr-workflow/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/branch-and-pr-workflow/SKILL.md",
+      "gitBlobSha": "9a7adb2c404ab9408288a35f2340f6834c31315e",
+      "bytes": 4985
+    },
+    {
+      "sourcePath": "template/claude/skills/database-and-migrations/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/database-and-migrations/SKILL.md",
+      "gitBlobSha": "aefa50262d77216a35e49ae8a1fa340c4309b3de",
+      "bytes": 7058
+    },
+    {
+      "sourcePath": "template/claude/skills/devops-overview/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/devops-overview/SKILL.md",
+      "gitBlobSha": "23fdff986fea2fda0dd57605bfadae6ab8c64f15",
+      "bytes": 3940
+    },
+    {
+      "sourcePath": "template/claude/skills/environments-and-env-vars/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/environments-and-env-vars/SKILL.md",
+      "gitBlobSha": "ca5841fe16caca0a6d716c972e3f91ec700564d7",
+      "bytes": 3567
+    },
+    {
+      "sourcePath": "template/claude/skills/logging-and-curation/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/logging-and-curation/SKILL.md",
+      "gitBlobSha": "8223698cd498a621969dafe6010f251339f8b29c",
+      "bytes": 3287
+    },
+    {
+      "sourcePath": "template/claude/skills/resume-cold-handoff/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/resume-cold-handoff/SKILL.md",
+      "gitBlobSha": "f48f2c754379f0eef5cef3ed417192e4820b24ff",
+      "bytes": 3874
+    },
+    {
+      "sourcePath": "template/claude/skills/staging-verification/SKILL.md",
+      "path": "software-factory/upstream/template/claude/skills/staging-verification/SKILL.md",
+      "gitBlobSha": "7e07622c32a12864b11d4a916769f992587dc6c4",
+      "bytes": 4613
+    },
+    {
+      "sourcePath": "template/docs/HANDOFF.md.template",
+      "path": "software-factory/upstream/template/docs/HANDOFF.md.template",
+      "gitBlobSha": "7d5d0d39fa3d8c774dfe0edfeea40bc3421cbc7c",
+      "bytes": 928
+    },
+    {
+      "sourcePath": "template/docs/decisions/README.md",
+      "path": "software-factory/upstream/template/docs/decisions/README.md",
+      "gitBlobSha": "1d1a248808412c18527c8053ce10d2ca5b0a6d35",
+      "bytes": 1148
+    },
+    {
+      "sourcePath": "template/docs/decisions/_month-template.md",
+      "path": "software-factory/upstream/template/docs/decisions/_month-template.md",
+      "gitBlobSha": "19c9f2ffa0195574655b48b83886f15393839b0d",
+      "bytes": 608
+    },
+    {
+      "sourcePath": "template/docs/reports/.gitkeep",
+      "path": "software-factory/upstream/template/docs/reports/.gitkeep",
+      "gitBlobSha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "bytes": 0
+    },
+    {
+      "sourcePath": "template/gitattributes.template",
+      "path": "software-factory/upstream/template/gitattributes.template",
+      "gitBlobSha": "2e448c54d69e529d5fb0a594fbb329d327effd2f",
+      "bytes": 280
+    },
+    {
+      "sourcePath": "template/github/scripts/scan-destructive-app-code.mjs",
+      "path": "software-factory/upstream/template/github/scripts/scan-destructive-app-code.mjs",
+      "gitBlobSha": "d2e92138bffb5611c8ca88ddce8826c3521e12c2",
+      "bytes": 6798
+    },
+    {
+      "sourcePath": "template/github/scripts/scan-destructive-sql.sh",
+      "path": "software-factory/upstream/template/github/scripts/scan-destructive-sql.sh",
+      "gitBlobSha": "0315ebb34a9a4630f69f07df53d04b8998456b47",
+      "bytes": 2423
+    },
+    {
+      "sourcePath": "template/github/workflows/destructive-migration-check.yml",
+      "path": "software-factory/upstream/template/github/workflows/destructive-migration-check.yml",
+      "gitBlobSha": "20bebe5fe03587df62bc3cd3f80a2a3dbd39ff2f",
+      "bytes": 4264
+    },
+    {
+      "sourcePath": "template/scripts/seed-dev-from-prod.sh.template",
+      "path": "software-factory/upstream/template/scripts/seed-dev-from-prod.sh.template",
+      "gitBlobSha": "cd426222e2e57d3d8c7255fb9aceaf21a68bd802",
+      "bytes": 7978
+    }
+  ]
+}
