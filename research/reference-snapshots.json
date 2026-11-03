@@ -1,0 +1,1111 @@
+{
+  "version": 1,
+  "consolidatedOn": "2026-11-03",
+  "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5",
+  "scope": "Public source attribution and historical observation metadata only. No new video review was performed for consolidation. Popularity is not functionality or demand. Unknown values remain null.",
+  "references": [
+    {
+      "id": "interactive-cleaning-showcase",
+      "title": "Make the transformation the story",
+      "source": {
+        "type": "reel",
+        "name": "Interactive pressure-washing showcase",
+        "url": "https://www.instagram.com/p/DevX-_nzM_y/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@lynam_up",
+          "url": "https://www.instagram.com/lynam_up/"
+        },
+        "attributionNote": "Public creator post reviewed through visible playing frames and caption.",
+        "contentType": "Filmed website demonstration",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:49:13Z",
+          "sourceUrl": "https://www.instagram.com/p/DevX-_nzM_y/"
+        },
+        "likes": {
+          "value": 40500,
+          "display": "40.5K",
+          "status": "rounded",
+          "observedAt": "2026-11-02T20:49:13Z",
+          "sourceUrl": "https://www.instagram.com/p/DevX-_nzM_y/"
+        },
+        "comments": {
+          "value": 2800,
+          "display": "2.8K",
+          "status": "rounded",
+          "observedAt": "2026-11-02T20:49:13Z",
+          "sourceUrl": "https://www.instagram.com/p/DevX-_nzM_y/"
+        },
+        "followers": {
+          "value": 10496,
+          "display": "10,496 (heading 10.4K)",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:35:20Z",
+          "sourceUrl": "https://www.instagram.com/lynam_up/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 394,
+          "display": "394",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:13Z",
+          "sourceUrl": "https://www.instagram.com/p/DevX-_nzM_y/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "service-design-system",
+      "title": "A service site the owner can maintain",
+      "source": {
+        "type": "reel",
+        "name": "Design-to-builder workflow",
+        "url": "https://www.instagram.com/p/Dbph0dDM-z-/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@designbyayelet",
+          "url": "https://www.instagram.com/designbyayelet/"
+        },
+        "attributionNote": "Public creator post reviewed through visible playing frames and caption.",
+        "contentType": "Design-tool workflow",
+        "observedStack": [
+          "Figma",
+          "Wix Studio plugin"
+        ]
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:49:27Z",
+          "sourceUrl": "https://www.instagram.com/p/Dbph0dDM-z-/"
+        },
+        "likes": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:49:27Z",
+          "sourceUrl": "https://www.instagram.com/p/Dbph0dDM-z-/"
+        },
+        "comments": {
+          "value": 41,
+          "display": "41",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:27Z",
+          "sourceUrl": "https://www.instagram.com/p/Dbph0dDM-z-/"
+        },
+        "followers": {
+          "value": 124983,
+          "display": "124,983 (heading 124K)",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:35:31Z",
+          "sourceUrl": "https://www.instagram.com/designbyayelet/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 11,
+          "display": "11",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:27Z",
+          "sourceUrl": "https://www.instagram.com/p/Dbph0dDM-z-/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "cafe-motion-with-fallback",
+      "title": "A café atmosphere that loads lightly",
+      "source": {
+        "type": "reel",
+        "name": "Café motion concept",
+        "url": "https://www.instagram.com/p/DeStzYDMNrQ/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@enkywebstudio",
+          "url": "https://www.instagram.com/enkywebstudio/"
+        },
+        "attributionNote": "Public creator post reviewed through visible playing frames and caption.",
+        "contentType": "Visual concept · AI-labeled",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:49:38Z",
+          "sourceUrl": "https://www.instagram.com/p/DeStzYDMNrQ/"
+        },
+        "likes": {
+          "value": 28900,
+          "display": "28.9K",
+          "status": "rounded",
+          "observedAt": "2026-11-02T20:49:38Z",
+          "sourceUrl": "https://www.instagram.com/p/DeStzYDMNrQ/"
+        },
+        "comments": {
+          "value": 270,
+          "display": "270",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:38Z",
+          "sourceUrl": "https://www.instagram.com/p/DeStzYDMNrQ/"
+        },
+        "followers": {
+          "value": 32187,
+          "display": "32,187 (heading 32.1K)",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:35:42Z",
+          "sourceUrl": "https://www.instagram.com/enkywebstudio/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 662,
+          "display": "662",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:38Z",
+          "sourceUrl": "https://www.instagram.com/p/DeStzYDMNrQ/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "transparent-service-estimate",
+      "title": "A useful estimate before the first call",
+      "source": {
+        "type": "reel",
+        "name": "Home-service estimate flow",
+        "url": "https://www.instagram.com/p/DdiHkfyuRU-/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@jahforge1",
+          "url": "https://www.instagram.com/jahforge1/"
+        },
+        "attributionNote": "Public creator post reviewed through visible playing frames and caption.",
+        "contentType": "Filmed UI demo · backend unverified",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:49:57Z",
+          "sourceUrl": "https://www.instagram.com/p/DdiHkfyuRU-/"
+        },
+        "likes": {
+          "value": 120,
+          "display": "120",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:57Z",
+          "sourceUrl": "https://www.instagram.com/p/DdiHkfyuRU-/"
+        },
+        "comments": {
+          "value": 13,
+          "display": "13",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:57Z",
+          "sourceUrl": "https://www.instagram.com/p/DdiHkfyuRU-/"
+        },
+        "followers": {
+          "value": 2210,
+          "display": "2,210",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:35:07Z",
+          "sourceUrl": "https://www.instagram.com/jahforge1/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 2,
+          "display": "2",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:49:57Z",
+          "sourceUrl": "https://www.instagram.com/p/DdiHkfyuRU-/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "local-service-quote-route",
+      "title": "One clear route from service to enquiry",
+      "source": {
+        "type": "reel",
+        "name": "Local-service conversion layout",
+        "url": "https://www.instagram.com/p/DcpPprHOYbH/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@jahforge1",
+          "url": "https://www.instagram.com/jahforge1/"
+        },
+        "attributionNote": "Public creator post reviewed through visible playing frames and caption.",
+        "contentType": "Filmed showcase / montage",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T20:50:08Z",
+          "sourceUrl": "https://www.instagram.com/p/DcpPprHOYbH/"
+        },
+        "likes": {
+          "value": 8900,
+          "display": "8.9K",
+          "status": "rounded",
+          "observedAt": "2026-11-02T20:50:08Z",
+          "sourceUrl": "https://www.instagram.com/p/DcpPprHOYbH/"
+        },
+        "comments": {
+          "value": 449,
+          "display": "449",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:50:08Z",
+          "sourceUrl": "https://www.instagram.com/p/DcpPprHOYbH/"
+        },
+        "followers": {
+          "value": 2210,
+          "display": "2,210",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:35:07Z",
+          "sourceUrl": "https://www.instagram.com/jahforge1/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 93,
+          "display": "93",
+          "status": "exact",
+          "observedAt": "2026-11-02T20:50:08Z",
+          "sourceUrl": "https://www.instagram.com/p/DcpPprHOYbH/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "two-clear-shopping-paths",
+      "title": "Two clear doors into a local shop",
+      "source": {
+        "type": "website",
+        "name": "WILDE",
+        "url": "https://www.wildebrands.com/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "WILDE (site publisher)",
+          "url": "https://www.wildebrands.com/"
+        },
+        "attributionNote": "The published research identifies the company site. Its designer or agency was not recorded."
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "visual-text",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "likes": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "choose-your-service-path",
+      "title": "One service. Two kinds of customer.",
+      "source": {
+        "type": "website",
+        "name": "Greyparrot",
+        "url": "https://www.greyparrot.ai/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Greyparrot (site publisher)",
+          "url": "https://www.greyparrot.ai/"
+        },
+        "attributionNote": "The published research identifies the company site. Its designer or agency was not recorded."
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "visual-text",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "likes": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "confident-first-quote",
+      "title": "From first question to confident quote",
+      "source": {
+        "type": "website",
+        "name": "Podium Automation",
+        "url": "https://www.podiumautomation.com/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Podium Automation (site publisher)",
+          "url": "https://www.podiumautomation.com/"
+        },
+        "attributionNote": "The published research identifies the company site. Its designer or agency was not recorded."
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "text",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "likes": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "restaurant-workflow-with-real-content",
+      "title": "A restaurant site grounded in real content",
+      "source": {
+        "type": "youtube",
+        "name": "Restaurant website workflow with Claude Code",
+        "url": "https://www.youtube.com/watch?v=3ECSinUCaNw",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Julian Weber",
+          "url": "https://www.youtube.com/watch?v=3ECSinUCaNw"
+        },
+        "attributionNote": "Creator attribution was observed on the public YouTube video page. Creator link points to that verified source page; no channel URL is inferred.",
+        "contentType": "Sampled build workflow",
+        "observedStack": [
+          "Claude Code",
+          "Higgsfield"
+        ]
+      },
+      "publishedOn": "2026-10-07",
+      "publicationEvidenceUrl": "https://www.youtube.com/watch?v=3ECSinUCaNw",
+      "freshnessRole": "discovery",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-metadata",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": 1480,
+          "display": "1,480",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=3ECSinUCaNw"
+        },
+        "likes": {
+          "value": 18,
+          "display": "18",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=3ECSinUCaNw"
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": 11000,
+          "display": "11K",
+          "status": "rounded",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=3ECSinUCaNw"
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "authentic-portfolio-quote-path",
+      "title": "A portfolio that earns the next conversation",
+      "source": {
+        "type": "youtube",
+        "name": "Portfolio workflow with Claude and Higgsfield",
+        "url": "https://www.youtube.com/watch?v=AQSPmcwlMDw",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Create a Pro Website",
+          "url": "https://www.youtube.com/watch?v=AQSPmcwlMDw"
+        },
+        "attributionNote": "Creator attribution was observed on the public YouTube video page. Creator link points to that verified source page; no channel URL is inferred.",
+        "contentType": "Sampled build workflow",
+        "observedStack": [
+          "Claude Desktop",
+          "Claude Code",
+          "Higgsfield"
+        ]
+      },
+      "publishedOn": "2026-09-08",
+      "publicationEvidenceUrl": "https://www.youtube.com/watch?v=AQSPmcwlMDw",
+      "freshnessRole": "discovery",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-transcript",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": 46251,
+          "display": "46,251",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=AQSPmcwlMDw"
+        },
+        "likes": {
+          "value": 568,
+          "display": "568",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=AQSPmcwlMDw"
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": 500000,
+          "display": "500K",
+          "status": "rounded",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=AQSPmcwlMDw"
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "local-intent-service-worksheet",
+      "title": "Find the service pages customers actually need",
+      "source": {
+        "type": "youtube",
+        "name": "Local keyword research for small businesses",
+        "url": "https://www.youtube.com/watch?v=NPD2RnGvZDA",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Ahrefs",
+          "url": "https://www.youtube.com/watch?v=NPD2RnGvZDA"
+        },
+        "attributionNote": "Creator attribution was observed on the public YouTube video page. Creator link points to that verified source page; no channel URL is inferred.",
+        "contentType": "Sampled foundational research / sales example",
+        "observedStack": [
+          "Ahrefs"
+        ]
+      },
+      "publishedOn": "2022-12-21",
+      "publicationEvidenceUrl": "https://www.youtube.com/watch?v=NPD2RnGvZDA",
+      "freshnessRole": "fundamental",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-transcript",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": 36193,
+          "display": "36,193",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=NPD2RnGvZDA"
+        },
+        "likes": {
+          "value": 793,
+          "display": "793",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=NPD2RnGvZDA"
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": 681000,
+          "display": "681K",
+          "status": "rounded",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=NPD2RnGvZDA"
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "service-prospect-qualification",
+      "title": "Qualify the problem before pitching the website",
+      "source": {
+        "type": "youtube",
+        "name": "Web-design prospect qualification through call examples",
+        "url": "https://www.youtube.com/watch?v=2qqFLchn7yY",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Red Panther",
+          "url": "https://www.youtube.com/watch?v=2qqFLchn7yY"
+        },
+        "attributionNote": "Creator attribution was observed on the public YouTube video page. Creator link points to that verified source page; no channel URL is inferred.",
+        "contentType": "Sampled foundational research / sales example",
+        "observedStack": []
+      },
+      "publishedOn": "2024-02-05",
+      "publicationEvidenceUrl": "https://www.youtube.com/watch?v=2qqFLchn7yY",
+      "freshnessRole": "fundamental",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-transcript",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": 6911,
+          "display": "6,911",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=2qqFLchn7yY"
+        },
+        "likes": {
+          "value": 285,
+          "display": "285",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=2qqFLchn7yY"
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": 3810,
+          "display": "3.81K",
+          "status": "rounded",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=2qqFLchn7yY"
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "honest-concept-before-outreach",
+      "title": "Make an honest concept before making a claim",
+      "source": {
+        "type": "youtube",
+        "name": "Web-design prospect discovery and concept planning",
+        "url": "https://www.youtube.com/watch?v=alvCIWw-KCM",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "Abou Toure",
+          "url": "https://www.youtube.com/watch?v=alvCIWw-KCM"
+        },
+        "attributionNote": "Creator attribution was observed on the public YouTube video page. Creator link points to that verified source page; no channel URL is inferred.",
+        "contentType": "Sampled foundational research / sales example",
+        "observedStack": [
+          "Google Maps"
+        ]
+      },
+      "publishedOn": "2025-05-29",
+      "publicationEvidenceUrl": "https://www.youtube.com/watch?v=alvCIWw-KCM",
+      "freshnessRole": "fundamental",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-transcript",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": 26062,
+          "display": "26,062",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=alvCIWw-KCM"
+        },
+        "likes": {
+          "value": 1261,
+          "display": "1,261",
+          "status": "exact",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=alvCIWw-KCM"
+        },
+        "comments": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "followers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "subscribers": {
+          "value": 53200,
+          "display": "53.2K",
+          "status": "rounded",
+          "observedAt": null,
+          "observedWindow": {
+            "start": "2026-11-02T20:50Z",
+            "end": "2026-11-02T21:02Z",
+            "precision": "minute"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=alvCIWw-KCM"
+        },
+        "reposts": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "cinematic-marina-enquiry",
+      "title": "A cinematic welcome with a direct enquiry",
+      "source": {
+        "type": "reel",
+        "name": "Interactive marina website showcase",
+        "url": "https://www.instagram.com/reels/DcSizPCtTom/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@uijonah",
+          "url": "https://www.instagram.com/uijonah/"
+        },
+        "attributionNote": "Public creator attribution from sampled playing frames and visible captions; content ownership unverified.",
+        "contentType": "Filmed website showcase",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T21:52:35Z",
+          "sourceUrl": "https://www.instagram.com/reels/DcSizPCtTom/"
+        },
+        "likes": {
+          "value": 7700,
+          "display": "7,700",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:52:35Z",
+          "sourceUrl": "https://www.instagram.com/reels/DcSizPCtTom/"
+        },
+        "comments": {
+          "value": 4945,
+          "display": "4945",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:52:35Z",
+          "sourceUrl": "https://www.instagram.com/reels/DcSizPCtTom/"
+        },
+        "followers": {
+          "value": 5371,
+          "display": "5,371",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:53:06Z",
+          "sourceUrl": "https://www.instagram.com/uijonah/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 156,
+          "display": "156",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:52:35Z",
+          "sourceUrl": "https://www.instagram.com/reels/DcSizPCtTom/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    },
+    {
+      "id": "permissioned-property-tour",
+      "title": "Explore a space before the enquiry",
+      "source": {
+        "type": "reel",
+        "name": "Browser-based 3D property-tour explainer",
+        "url": "https://www.instagram.com/reels/DYFGThBOqRJ/",
+        "publicVisibility": "public",
+        "creator": {
+          "name": "@marc.kaz",
+          "url": "https://www.instagram.com/marc.kaz/"
+        },
+        "attributionNote": "Public creator attribution from sampled playing frames and visible captions; content ownership unverified.",
+        "contentType": "Third-party technology commentary with demonstration footage",
+        "observedStack": []
+      },
+      "publishedOn": null,
+      "publicationEvidenceUrl": null,
+      "freshnessRole": "undated",
+      "reviewedOn": "2026-11-02",
+      "reviewMethod": "video-visual-caption",
+      "audioReviewed": false,
+      "popularity": {
+        "views": {
+          "value": null,
+          "display": "Not displayed",
+          "status": "unavailable",
+          "observedAt": "2026-11-02T21:53:23Z",
+          "sourceUrl": "https://www.instagram.com/reels/DYFGThBOqRJ/"
+        },
+        "likes": {
+          "value": 32700,
+          "display": "32.7K",
+          "status": "rounded",
+          "observedAt": "2026-11-02T21:53:23Z",
+          "sourceUrl": "https://www.instagram.com/reels/DYFGThBOqRJ/"
+        },
+        "comments": {
+          "value": 889,
+          "display": "889",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:53:23Z",
+          "sourceUrl": "https://www.instagram.com/reels/DYFGThBOqRJ/"
+        },
+        "followers": {
+          "value": 128703,
+          "display": "128,703 (heading 128K)",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:53:40Z",
+          "sourceUrl": "https://www.instagram.com/marc.kaz/"
+        },
+        "subscribers": {
+          "value": null,
+          "display": null,
+          "status": "unknown",
+          "observedAt": null,
+          "sourceUrl": null
+        },
+        "reposts": {
+          "value": 425,
+          "display": "425",
+          "status": "exact",
+          "observedAt": "2026-11-02T21:53:23Z",
+          "sourceUrl": "https://www.instagram.com/reels/DYFGThBOqRJ/"
+        }
+      },
+      "sourceArchiveCommit": "ebfbd71319364fe803b82bbd7af7e58434d667e5"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "checkedOn": "2026-11-03",
+  "method": "Read existing clean local source trees. Verified remote PR heads; matching Git trees establish content equivalence where local and remote commit IDs differ. Historical source test reports are not new test runs.",
+  "projects": [
+    {
+      "repository": "NateKeola/Dogfood",
+      "pullRequest": "https://github.com/NateKeola/Dogfood/pull/1",
+      "branch": "codex/idea-archive",
+      "commit": "ebfbd71319364fe803b82bbd7af7e58434d667e5",
+      "tree": "cf6c222604a3806398705c57ea79a5337c72d378",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    },
+    {
+      "repository": "NateKeola/Dogfood",
+      "pullRequest": "https://github.com/NateKeola/Dogfood/pull/2",
+      "branch": "codex/holistic-seo-review",
+      "commit": "171d93bd4635f68ffb9df26b83ef5acb0f2d297a",
+      "tree": "e5f44b00411412bf633522a2e39469e752242a80",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    },
+    {
+      "repository": "NateKeola/Dogfood",
+      "pullRequest": "https://github.com/NateKeola/Dogfood/pull/3",
+      "branch": "codex/outreach-engine",
+      "commit": "c33eb2122fafe787ed65619bf4dcde2bc6fa7b7c",
+      "tree": "0561baa5c1e58cdfa742536b530c35418106b3d2",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    },
+    {
+      "repository": "NateKeola/Dogfood",
+      "pullRequest": "https://github.com/NateKeola/Dogfood/pull/4",
+      "branch": "codex/smb-service-opportunity-research",
+      "commit": "5bbe43b32bb8941106c5505c92f438bd4e4e0fe0",
+      "tree": "3f0fd1210b5e95e26e3f438a3b0ba7b632f4d5c9",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    },
+    {
+      "repository": "NateKeola/Dogfood",
+      "pullRequest": "https://github.com/NateKeola/Dogfood/pull/5",
+      "branch": "feat/api-spend-dashboard",
+      "commit": "2e3b285ee80c121571e06cf223934aa26f581579",
+      "tree": "6013b74c65a8ade64170eae2e7f1a9a965c5b482",
+      "state": "open",
+      "draft": true,
+      "merged": false
+    }
+  ]
+}
