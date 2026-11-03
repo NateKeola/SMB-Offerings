@@ -21,6 +21,7 @@ Every workstream has substantive content directly in this repository. The linked
 
 - [x] Strategy and preferences: [vision](strategy/vision-and-preferences.md), [decisions and open choices](strategy/decision-register.md), [ICP and evidence gates](strategy/opportunity-qualification.md).
 - [x] Opportunity searching: [research protocol](research/research-protocol.md), [official-registry pilot lessons](research/registry-pilot.md), [industry/market analysis](research/industry-market-analysis.md).
+- [x] Law-firm inbound intake — **research only**: [opportunity and recommendation](opportunities/law-firm-intake/README.md), [demand and competitors](opportunities/law-firm-intake/market-and-competition.md), [legal/security assessment](opportunities/law-firm-intake/legal-and-security.md), [MVP design](opportunities/law-firm-intake/architecture-and-mvp.md), [economics](opportunities/law-firm-intake/economics.md) and [response-time validation plan](opportunities/law-firm-intake/validation-plan.md). No live pilot, outreach or integration has occurred.
 - [x] Initial service and automation offers: [full scoped menu](offerings/service-menu.md), [six prototype directions](offerings/prototype-directions.md), [delivery and SOW process](delivery/prototype-to-sow.md).
 - [x] Pricing and economics: [explanation and assumptions](offerings/pricing-and-economics.md), [17 market-price observations](research/market-price-observations.csv), [model inputs](offerings/economics-assumptions.json), [24 scenarios](offerings/economic-scenarios.csv), [add-on scenarios](offerings/addon-scenarios.csv), [price floors](offerings/price-floors.csv).
 - [x] SEO and AI-search: [playbook and seven launch gates](seo/search-and-ai-visibility.md), [62-entry primary-source register](seo/source-register.md).
@@ -50,6 +51,7 @@ Research summaries and tables are visible here; customer/contact records and pri
 |---|---|
 | [strategy](strategy/vision-and-preferences.md) | User direction, decisions, ICPs, evidence gates and priorities |
 | [research](research/source-index.md) | Source register, video provenance, research methods, registry lessons and article interpretation |
+| [opportunities](opportunities/law-firm-intake/README.md) | Bounded opportunity research; law-firm voice/email intake, risks, practical mitigations and proposed validation |
 | [offerings](offerings/service-menu.md) | Scoped menu, prototype directions and economic assumptions |
 | [outreach](outreach/playbook.md) | Calling-first preparation, draft messaging, measurement and stop conditions |
 | [delivery](delivery/prototype-to-sow.md) | Discovery, demonstration, statement of work and acceptance |

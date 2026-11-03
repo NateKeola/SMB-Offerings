@@ -1,0 +1,65 @@
+{
+  "as_of": "2026-11-03",
+  "currency": "USD",
+  "status": "hypothetical; no actual customers or costs",
+  "voice_per_minute": 0.2,
+  "email_per_thread": 0.03,
+  "phone_number_per_month": 2,
+  "human_escalation_unit_cost": 8,
+  "loaded_hourly_rate": 75,
+  "target_modeled_margin": 0.5,
+  "scenarios": [
+    {
+      "name": "low_volume",
+      "calls": 80,
+      "minutes_per_call": 3.5,
+      "email_threads": 100,
+      "escalation_share": 0.1,
+      "platform_monthly": 75,
+      "support_hours": 2,
+      "security_allocation": 100,
+      "monthly_price": 599,
+      "setup_hours": 12,
+      "setup_review_allocation": 300,
+      "setup_price": 2000
+    },
+    {
+      "name": "base",
+      "calls": 200,
+      "minutes_per_call": 4,
+      "email_threads": 300,
+      "escalation_share": 0.1,
+      "platform_monthly": 100,
+      "support_hours": 3,
+      "security_allocation": 150,
+      "monthly_price": 1199,
+      "setup_hours": 24,
+      "setup_review_allocation": 600,
+      "setup_price": 4000
+    },
+    {
+      "name": "heavy_support",
+      "calls": 400,
+      "minutes_per_call": 6,
+      "email_threads": 600,
+      "escalation_share": 0.25,
+      "platform_monthly": 150,
+      "support_hours": 6,
+      "security_allocation": 200,
+      "monthly_price": 2499,
+      "setup_hours": 40,
+      "setup_review_allocation": 1200,
+      "setup_price": 7000
+    }
+  ],
+  "exclusions": [
+    "sales and acquisition",
+    "general administration",
+    "financing and taxes",
+    "extraordinary incidents",
+    "refunds and bad debt",
+    "custom portal development",
+    "unpriced provider surcharges"
+  ],
+  "price_basis": "All model rates are analyst planning assumptions; see economics.md for separate public price anchors."
+}
