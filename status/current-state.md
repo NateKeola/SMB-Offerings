@@ -15,6 +15,12 @@ Snapshot: 2026-11-03. This is a curated handoff of the available project record,
 
 See [exact code/research provenance](source-projects.md). The code remains in unmerged draft PRs. No code migration, PR merge, deployment, active outreach or account integration is part of this consolidation.
 
+## Law-firm inbound intake: research completed, validation pending
+
+The [law-firm intake research package](../opportunities/law-firm-intake/README.md) evaluates inbound voice and email, a lawyer-facing review queue, current alternatives, California-first legal/security implications, MVP tiers and hypothetical economics. The recommendation is to test a bounded callback-first implementation service using existing firm systems. It is a proposal, not the selected first live ICP or an operating product.
+
+[Risks and practical mitigations](../opportunities/law-firm-intake/decision-log.md) preserve customer value while making residual cost visible. The [benchmarking plan](../opportunities/law-firm-intake/validation-plan.md) proposes firm-authorized synthetic tests or permitted log audits; none has been executed. There are zero pilot customers, live integrations or measured business outcomes. Buyer demand, counsel review, vendor diligence and implementation testing remain open. See [research-package validation](../opportunities/law-firm-intake/validation.md) for the checks actually completed.
+
 ## Not established yet
 
 | Gap | Why it matters | Next useful evidence |

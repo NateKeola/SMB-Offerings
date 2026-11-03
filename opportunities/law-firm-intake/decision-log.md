@@ -46,3 +46,7 @@ Original opportunity brief, empirical market review, seven alternative/provider 
 - Root repository indexing and shared status updates are proposed in [integration notes](integration-notes.md) to avoid conflicting with concurrent work.
 
 This is a reviewable research package. No content here is proof of a secure implementation or permission to begin operation.
+
+## Discoverability follow-up
+
+On 2026-11-03, links and research-status explanations were added to the root [README](../../README.md), [current state](../../status/current-state.md) and [roadmap](../../status/roadmap.md), preserving their existing text. This completes the shared-index follow-up identified above. Research findings and execution boundaries are unchanged; the Software Factory work remains in its separate draft PR.

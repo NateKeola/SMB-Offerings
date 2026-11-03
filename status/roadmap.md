@@ -18,3 +18,14 @@ The source engine includes a proposed 100-to-1,000-input plan. That is a later s
 Technical follow-ups, if selected: isolated spend-dashboard browser QA; a workbench adapter that emits pending suggestions; complete shared suppression; secure private multiuser storage; additional trusted audit profiles; and provider cost reservation/reconciliation. These are independent backlog items, not prerequisites for writing a useful strategy or manually qualifying a small sample.
 
 For content research, maintain exact links, dates, review coverage and evidence classes as new examples are added. A refresh cadence can be chosen later; this repository does not create background research or monitoring.
+
+## Law-firm inbound intake: proposed validation path
+
+The [research brief](../opportunities/law-firm-intake/README.md) is available now. If this opportunity is selected, use its [validation plan](../opportunities/law-firm-intake/validation-plan.md) and [Codex kickoff](../opportunities/law-firm-intake/CODEX-KICKOFF.md) to scope the next work:
+
+1. Verify a firm's inquiry volume, recurring response/handoff failure, consultation capacity, accountable owner and willingness to pay. Compare configuring existing tools with a custom build.
+2. Resolve the [practice-specific legal/security questions](../opportunities/law-firm-intake/legal-and-security.md), vendor terms and actual costs for the minimal callback workflow.
+3. Prepare fictional acceptance cases and a bounded measurement scope. Any firm-authorized synthetic testing, permitted private-log audit or disclosed inquiry requires its own execution authorization; no fabricated client case is an approved prospecting campaign.
+4. Consider a paid pilot only after the commercial and operational prerequisites are met. Measure completed human contact, reliability, support cost and outcomes before expanding to detailed intake or document uploads.
+
+These steps preserve the current email hold and do not authorize outreach, real-client data access, provider activation, spending or deployment. See the opportunity's [decision log](../opportunities/law-firm-intake/decision-log.md) for current limits and unfinished work.
