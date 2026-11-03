@@ -28,6 +28,7 @@ Every workstream has substantive content directly in this repository. The linked
 - [x] Outreach: [calling-first playbook, draft messages and proposed cadence](outreach/playbook.md), [private-use blank worksheets](templates/README.md).
 - [x] Architecture and spending: [component/integration boundaries](architecture/system-and-integrations.md), [usage, budget and cost rules](architecture/spend-and-measurement.md).
 - [x] Handoff and unfinished work: [current state/gaps](status/current-state.md), [roadmap](status/roadmap.md), [exact source commits and test limits](status/source-projects.md), [provenance manifest](status/provenance.json), [validation](status/validation.md), [agent guidance](AGENTS.md), [Codex kickoff](codex/KICKOFF.md).
+- [x] Software Factory: [the existing portable kit](software-factory/README.md), [SMB adoption map](software-factory/SMB-ADOPTION.md) and [source/scope/reuse notes](software-factory/PROVENANCE.md). Included as a pinned reference package; no skills, CI, database or deployment workflows activated.
 
 Research summaries and tables are visible here; customer/contact records and private learning-deck files are intentionally excluded. A checked box means the workstream is documented, not that its business hypotheses or software are production-ready.
 

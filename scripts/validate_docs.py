@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Dependency-free structural and public-content checks; no network or writes."""
 import csv
+import hashlib
 import json
 import re
 import sys
@@ -16,6 +17,36 @@ files = sorted(p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.par
 def require(condition, message):
     if not condition:
         errors.append(message)
+
+# Vendored templates retain their source formatting and future-install links.
+# Their exact bytes and scope are checked instead of pretending they are active docs.
+vendored = {}
+upstream_manifest = ROOT/'software-factory/UPSTREAM.json'
+if upstream_manifest.exists():
+    upstream = json.loads(upstream_manifest.read_text())
+    for entry in upstream['files']:
+        relative = entry['path']
+        require(relative.startswith('software-factory/upstream/') and '..' not in Path(relative).parts, 'Invalid vendored path')
+        require(relative not in vendored, 'Duplicate vendored path')
+        vendored[relative] = entry
+        target = ROOT/relative
+        require(target.is_file() and not target.is_symlink(), relative+': missing or symlinked upstream file')
+        if target.is_file():
+            data = target.read_bytes()
+            actual = hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
+            require(actual == entry['gitBlobSha'], relative+': upstream byte mismatch')
+            require(len(data) == entry['bytes'], relative+': upstream size mismatch')
+    actual_paths = {str(p.relative_to(ROOT)) for p in (ROOT/'software-factory/upstream').rglob('*') if p.is_file()}
+    require(actual_paths == set(vendored), 'Vendored tree differs from reviewed manifest')
+    require(len(vendored) == 31, 'Expected 31 portable upstream files')
+    require(not any('/reference/' in p or p.endswith('/check-drift.sh') for p in vendored), 'Excluded upstream reference material present')
+    require(sum('/doctrine/' in p for p in vendored) == 6, 'Expected six doctrine documents')
+    skill_paths = [p for p in vendored if p.endswith('/SKILL.md')]
+    require(len(skill_paths) == 7, 'Expected seven dormant skill templates')
+    require(sum('/template/claude/commands/' in p for p in vendored) == 3, 'Expected three dormant command templates')
+    for relative in skill_paths:
+        source = (ROOT/relative).read_text()
+        require(source.startswith('---\n') and '\nname:' in source and '\ndescription:' in source, relative+': missing skill frontmatter')
 
 def slug(text):
     text = re.sub(r'[`*]', '', text).lower().strip()
@@ -34,8 +65,10 @@ for path in files:
     require(not any(part in {'private', '.local', 'exports', 'node_modules', '__pycache__'} for part in rel.parts), f'{rel}: excluded directory')
     require(path.suffix not in {'.db', '.sqlite', '.sqlite3', '.zip', '.pdf', '.pptx', '.xlsx'}, f'{rel}: unexpected binary/private artifact')
     text = path.read_text(encoding='utf-8')
-    require(text.endswith('\n'), f'{rel}: missing final newline')
-    require(not any(line.rstrip() != line for line in text.splitlines()), f'{rel}: trailing whitespace')
+    is_vendored = str(rel) in vendored
+    if not is_vendored:
+        require(text.endswith('\n'), f'{rel}: missing final newline')
+        require(not any(line.rstrip() != line for line in text.splitlines()), f'{rel}: trailing whitespace')
     if path.parent.name != 'scripts':
         for label, pattern in patterns.items():
             require(not re.search(pattern, text), f'{rel}: possible {label}; review before publishing')
@@ -44,7 +77,7 @@ for path in files:
             json.loads(text)
         except ValueError as exc:
             errors.append(f'{rel}: invalid JSON: {exc}')
-    if path.suffix == '.md':
+    if path.suffix == '.md' and not is_vendored:
         require(text.startswith('# '), f'{rel}: missing H1')
         require(len(re.findall(r'^```', text, re.M)) % 2 == 0, f'{rel}: unbalanced code fences')
         for target in re.findall(r'\[[^\]]*\]\(([^\s)]+)\)', text):
@@ -96,4 +129,6 @@ if errors:
     sys.exit(1)
 print(f'PASS: {len(files)} text files; {links} Markdown links; {len(external)} unique external links recorded.')
 print('PASS: local targets, JSON/CSV shapes, source counts, pinned provenance, whitespace and public-content pattern checks.')
+if vendored:
+    print(f'PASS: {len(vendored)} byte-identical upstream files; six doctrines, seven dormant skills and three dormant commands. No upstream code executed.')
 print('External links were recorded, not fetched. Manual public-content and factual review remain necessary.')
