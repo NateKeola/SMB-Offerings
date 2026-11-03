@@ -1,0 +1,4 @@
+scenario,voice_cost,email_cost,number_cost,platform_cost,fallback_cost,support_cost,security_allocation,monthly_cost,monthly_price,contribution,margin_percent,price_for_50_percent_margin,setup_cost,setup_price,setup_margin_percent
+low_volume,56.0,3.0,2,75,64.0,150,100,450.0,599,149.0,24.87,900.0,1200,2000,40.0
+base,160.0,9.0,2,100,160.0,225,150,806.0,1199,393.0,32.78,1612.0,2400,4000,40.0
+heavy_support,480.0,18.0,2,150,800.0,450,200,2100.0,2499,399.0,15.97,4200.0,4200,7000,40.0
