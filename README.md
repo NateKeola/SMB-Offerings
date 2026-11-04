@@ -25,7 +25,7 @@ Every workstream has substantive content directly in this repository. The linked
 - [x] Initial service and automation offers: [full scoped menu](offerings/service-menu.md), [six prototype directions](offerings/prototype-directions.md), [delivery and SOW process](delivery/prototype-to-sow.md).
 - [x] Pricing and economics: [explanation and assumptions](offerings/pricing-and-economics.md), [17 market-price observations](research/market-price-observations.csv), [model inputs](offerings/economics-assumptions.json), [24 scenarios](offerings/economic-scenarios.csv), [add-on scenarios](offerings/addon-scenarios.csv), [price floors](offerings/price-floors.csv).
 - [x] SEO and AI-search: [playbook and seven launch gates](seo/search-and-ai-visibility.md), [62-entry primary-source register](seo/source-register.md).
-- [x] Public research: [source map](research/source-index.md), [26-source market register](research/market-source-register.md), [15 historical video/site references plus three new Reels](research/video-reference-index.md), [metric provenance](research/reference-snapshots.json), [market-fit reading note](research/market-fit-note.md).
+- [x] Public research: [source map](research/source-index.md), [26-source market register](research/market-source-register.md), [15 historical video/site references plus four new Reels](research/video-reference-index.md), [metric provenance](research/reference-snapshots.json), [market-fit reading note](research/market-fit-note.md).
 - [x] Outreach: [calling-first playbook, draft messages and proposed cadence](outreach/playbook.md), [private-use blank worksheets](templates/README.md).
 - [x] Architecture and spending: [component/integration boundaries](architecture/system-and-integrations.md), [usage, budget and cost rules](architecture/spend-and-measurement.md).
 - [x] Handoff and unfinished work: [current state/gaps](status/current-state.md), [roadmap](status/roadmap.md), [exact source commits and test limits](status/source-projects.md), [provenance manifest](status/provenance.json), [validation](status/validation.md), [agent guidance](AGENTS.md), [Codex kickoff](codex/KICKOFF.md).
@@ -37,7 +37,7 @@ Research summaries and tables are visible here; customer/contact records and pri
 
 | Area | Available work | Limit |
 |---|---|---|
-| Idea discovery | 15 historical public references plus three new Reels, exact links, six original directions | Review coverage varies and is labeled; zero built customer demos |
+| Idea discovery | 15 historical public references plus four new Reels, exact links, six original directions | Review coverage varies and is labeled; zero built customer demos |
 | Business research | Local browser workbench for intake, identity, evidence and offers | Two fictional fixtures; zero real leads in its public data |
 | Outreach preparation | Python CLI, shared review gates, catalog and local-service profiles | Disabled external providers; no sending, dialing or live audit service |
 | SEO and AI-search | Evidence-led toolkit, 62 primary-source entries, seven launch gates | No completed client audit or ranking/inclusion promise |
