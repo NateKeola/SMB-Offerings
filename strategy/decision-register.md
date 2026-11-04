@@ -29,6 +29,8 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 
 The [supplemental SEO reel notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04) now extract concrete tool uses and a photo workflow rather than archiving links alone. Sampled visual evidence and current Google guidance are kept separate from creator claims. Photo geotagging is not adopted as a validated ranking service, and the named tool stack does not authorize purchases, installations or account changes. This evidence update does not select a new ICP or change the service offer.
 
+The [client onboarding reference](../delivery/prototype-to-sow.md#client-onboarding-reference--2026-11-04), also reviewed 2026-11-04, adds an observed eight-step sequence and proposed SMB adaptations. It does not adopt the creator's tools, validate a contract or portal, or authorize outreach, invoicing, accounts, permission changes or a reporting schedule.
+
 ## Change protocol
 
 When the user changes a preference, record the date, new instruction and affected workflow. Keep the previous entry as superseded history if it matters. New source evidence can change a factual assessment but cannot authorize outreach, spending or production work. Do not infer that elapsed time lifted a hold.
