@@ -47,3 +47,12 @@ For a manual AI-search panel, retain the exact query, surface/model, time, local
 The toolkit's [tools and lift module](https://github.com/NateKeola/Dogfood/blob/171d93bd4635f68ffb9df26b83ef5acb0f2d297a/projects/seo-review/TOOLS_AND_LIFT.md) covers Search Console, GA4, PageSpeed, CrUX, Bing, crawlers and optional paid data. Prices, quotas, permissions and API eligibility need current confirmation. No accounts, tracking, search submissions, crawler settings or paid tools were changed by this handoff.
 
 Two private learning decks were delivered previously: sixteen slides on services and sixteen on SEO/AI-search. Their files and private links are intentionally omitted. The public source research above provides the reusable technical context.
+
+## Additional Instagram reference — 2026-11-04
+
+- **Reference:** [Local SEO tool overview by @camden.weup](https://www.instagram.com/reel/DfGhqQvpiIR/).
+- **Observed:** The opening frame presents a short local-SEO tool overview. The visible caption describes the creator's accumulated experience; that is a creator claim, not independently verified evidence.
+- **Review coverage:** Public caption, attribution and opening frame checked in the browser on 2026-11-04 UTC, with audio muted. No full playback or transcript review. Publication date unknown. No media was downloaded or rehosted.
+- **Use in these notes:** A discovery reference for a future tool comparison, not an endorsed tool stack or established SEO guidance. The full tool list, capabilities, pricing and outcome claims remain unassessed. Verify any candidate tool against current official documentation and the business's task before making a recommendation.
+
+This supplemental creator reference is separate from the 62-entry primary-source bibliography and does not change the established guidance above. See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for both newly added Reels.
