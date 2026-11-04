@@ -21,6 +21,10 @@ The [law-firm intake research package](../opportunities/law-firm-intake/README.m
 
 [Risks and practical mitigations](../opportunities/law-firm-intake/decision-log.md) preserve customer value while making residual cost visible. The [benchmarking plan](../opportunities/law-firm-intake/validation-plan.md) proposes firm-authorized synthetic tests or permitted log audits; none has been executed. There are zero pilot customers, live integrations or measured business outcomes. Buyer demand, counsel review, vendor diligence and implementation testing remain open. See [research-package validation](../opportunities/law-firm-intake/validation.md) for the checks actually completed.
 
+## Reference additions — 2026-11-04
+
+Two Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04): construction-company website upgrades and a local-SEO tool overview. The latter is also linked in [SEO notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04). Review covered visible captions, attribution and opening frames only, not full playback or verified outcomes. The 15-reference historical snapshot and six original prototype directions remain unchanged.
+
 ## Not established yet
 
 | Gap | Why it matters | Next useful evidence |
