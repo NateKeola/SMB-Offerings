@@ -21,6 +21,17 @@ The [law-firm intake research package](../opportunities/law-firm-intake/README.m
 
 [Risks and practical mitigations](../opportunities/law-firm-intake/decision-log.md) preserve customer value while making residual cost visible. The [benchmarking plan](../opportunities/law-firm-intake/validation-plan.md) proposes firm-authorized synthetic tests or permitted log audits; none has been executed. There are zero pilot customers, live integrations or measured business outcomes. Buyer demand, counsel review, vendor diligence and implementation testing remain open. See [research-package validation](../opportunities/law-firm-intake/validation.md) for the checks actually completed.
 
+## Reference additions — 2026-11-04
+
+Twelve Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04), bringing it to 27 links: 19 Reels, five YouTube videos and three websites.
+
+- Three website/design references retain opening-frame-only coverage: construction upgrades, scroll animation and mechanic-shop website/CRM packaging.
+- [SEO notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04) extract tools, a photo-geotagging workflow and a local lead-generation model from sampled frames/captions. Google's current photo guidance and ranking/link policies were checked; geotagging is not adopted as a proven ranking tactic.
+- [Delivery notes](../delivery/prototype-to-sow.md#client-onboarding-reference--2026-11-04) include all eight onboarding slides, an auto-shop voice-intake diagram and sampled demonstration, and a multi-location proposal with separate build/recurring costs.
+- [Outreach notes](../outreach/playbook.md#discovery-to-demo-reference--2026-11-04) capture discovery-to-preview patterns, a cold-call objection-handling example and an AI site-builder demonstration. Neither authorizes contact, group scraping or an active campaign.
+
+Review on 2026-11-04 UTC was visual with muted audio, not complete audio transcripts. Revenue, price, ranking, sales and reliability claims remain unverified. No creator asset was downloaded, no system independently reproduced, and no buyer demand established. The 15-reference historical snapshot, 62-entry primary-source SEO bibliography and six original prototype directions remain unchanged.
+
 ## Not established yet
 
 | Gap | Why it matters | Next useful evidence |
