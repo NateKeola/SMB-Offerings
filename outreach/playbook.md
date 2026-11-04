@@ -50,3 +50,28 @@ Maintain suppression across later authorized campaigns and channels; the prototy
 Track unique candidates, verified identities, assessable tasks, qualified opportunities, actual attempts by channel, reached decision-makers, recognized problems, walkthroughs, scoped proposals, paid pilots and delivered outcomes. Use actual denominators and dates. A click-to-call is not a connected call; an inquiry is not a qualified lead; a planned demo is not a built prototype; a proposal is not paid demand.
 
 Measure staff time and fulfilled business value with the customer's agreed definitions. Record no-need, no-capacity and no-response outcomes rather than only wins. Include research, failed calls, demos and follow-up in acquisition cost. See [the pilot scorecard](../templates/pilot-scorecard.md).
+
+## Discovery-to-demo reference — 2026-11-04
+
+**Source:** [Service-business website workflow by @christian.wtc](https://www.instagram.com/reel/DZYVM4WSMaC/), about 79 seconds. Reviewed public attribution, caption and sampled video frames on 2026-11-04 UTC. Audio was muted and the spoken explanation was not transcribed. Publication date unknown; no media or guide was downloaded.
+
+**Observed:** Around 16–24 seconds, the creator shows searches for industry Facebook groups and an AI-generated list of home-service niches. Around 32–42 seconds, a service-business group and a sample conversation are shown; the conversation asks permission to send a website preview before discussing price. Around 45 seconds, a reusable service-site editor contains location placeholders and a quote-request form. These observations do not verify the conversation, a sale, a functioning form or qualified demand. The opening $30k/month headline and filmed revenue screen are unverified and do not establish profit, attribution or typical results.
+
+**Useful adaptation, proposed rather than executed:**
+1. Use niche lists and industry discussions to generate research questions, not a scraped contact list or evidence that members need a website.
+2. Verify the business identity, current site and an actual customer task before claiming a gap. A missing website field or social-profile link is not proof of need.
+3. Prepare one original, bounded preview only after the task is understood. Ask permission before sharing it through an authorized channel; label fictional content and unfinished behavior.
+4. Reuse a small service-page structure, then check truthful service/location copy, mobile usability, quote fields, routing and response ownership.
+5. Measure recognized problems, accepted walkthroughs, scoped proposals and paid delivery separately. Include research and unsuccessful demos in acquisition cost.
+
+This reference does not select a vertical, authorize group scraping or outreach, or change the email hold. No group was joined, comment posted, guide requested or message sent. See the [reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04).
+
+## Price-objection reference — 2026-11-04
+
+**Source:** [Website-sales example by @pages.by.p](https://www.instagram.com/reel/Dd7FBlKpX59/), about 1 minute 54 seconds. Public caption and sampled frames were visually reviewed on 2026-11-04 UTC with audio muted; the final roughly 19 seconds were not reviewed. Publication date unknown. No complete call transcript, precise spoken script or sale outcome was verified.
+
+**Observed:** Around 27–32 seconds, teaching overlays recommend asking what is behind an objection and learning earlier quotes and the buyer's budget. The caption interprets this prospect's resistance as a reaction to previous prices, not lack of interest; that is the creator's interpretation, not independently established buyer intent. Around 1:29–1:35, a map tool displays website/social-page/category filters and a prospect card with a confidence label and manual verification option. Tool identity, accuracy, data rights and contact permission were not verified.
+
+**Useful adaptation:** Keep separate outcomes for no need, no capacity, poor timing, scope mismatch and unaffordable prior proposals. When a person is willing to discuss the issue, ask what the earlier offer included and what outcome matters before adjusting scope. A lower price is not automatically the answer. A clearly declined conversation is a stop signal, not an objection to overcome.
+
+Use website-gap indicators only to prioritize verification. Resolve the exact business and current website, then test the customer task; missing-site confidence is not pain, consent or demand. Any later authorized proposal should explain its scope and costs without invented savings, urgency or social proof. No prospect list, contact details or call transcript is reproduced, and no outreach or tool use was initiated.
