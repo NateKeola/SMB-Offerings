@@ -2,7 +2,7 @@
 
 Historical source observations from **2026-11-02**. Consolidated from the [exact archive commit](https://github.com/NateKeola/Dogfood/blob/ebfbd71319364fe803b82bbd7af7e58434d667e5/projects/idea-archive/data/ideas.json). No new playback or live metric check was performed for this handoff.
 
-The 15 references comprise seven Instagram Reels, five YouTube videos and three supplemental websites. All fifteen original briefs and all six clustered directions remain planned; zero customer demos are built. Exact public links are below.
+The 15 historical references comprise seven Instagram Reels, five YouTube videos and three supplemental websites. Two later Instagram additions are recorded separately below, bringing this index to 17 links (nine Reels, five YouTube videos and three websites). The historical metric snapshot remains unchanged. All fifteen original briefs and all six clustered directions remain planned; zero customer demos are built.
 
 | Reference | Public creator / publisher | Published | Review method |
 |---|---|---|---|
@@ -21,6 +21,17 @@ The 15 references comprise seven Instagram Reels, five YouTube videos and three 
 | [Make an honest concept before making a claim](https://www.youtube.com/watch?v=alvCIWw-KCM) | Abou Toure | 2025-05-29 | Sampled frames + transcript coverage; not full playback |
 | [A cinematic welcome with a direct enquiry](https://www.instagram.com/reels/DcSizPCtTom/) | @uijonah | Unknown | Sampled frames + visible caption; muted |
 | [Explore a space before the enquiry](https://www.instagram.com/reels/DYFGThBOqRJ/) | @marc.kaz | Unknown | Sampled frames + visible caption; muted |
+
+## Additional Instagram references — 2026-11-04
+
+These two links were added after the historical archive. Review was limited to the visible public caption, creator attribution and opening on-screen frame in the browser on **2026-11-04 UTC**, with audio muted. Neither reel was watched in full or transcribed. Publication dates remain unknown. Canonical links omit sharing/tracking parameters; no media or creator assets were downloaded or rehosted.
+
+| Reference | Public creator | Topic observed | Review limits / use |
+|---|---|---|---|
+| [Construction-company website upgrades](https://www.instagram.com/reel/Db3YtNHAU9w/) | @siterabbits | Opening frame introduces construction-company website improvements; caption addresses business owners, construction and roofing businesses | Website-offering inspiration only. Specific recommendations, implementation quality and business results have not been verified. |
+| [Local SEO tool overview](https://www.instagram.com/reel/DfGhqQvpiIR/) | @camden.weup | Opening frame presents a short local-SEO tool overview | Added to [SEO reference notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04). Full tool list, claims, current capabilities and pricing have not been assessed. |
+
+These additions do not create new validated offers, prototype briefs or demand evidence. They are not included in the historical [metric snapshot](reference-snapshots.json), and no new audience metrics are recorded here.
 
 ## Observed reach snapshots
 
