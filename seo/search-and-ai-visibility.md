@@ -50,7 +50,7 @@ Two private learning decks were delivered previously: sixteen slides on services
 
 ## Additional Instagram reference — 2026-11-04
 
-These two creator references are supplemental to the 62-entry primary-source bibliography. Review on **2026-11-04 UTC** used the public caption, creator attribution, visible video frames and burned-in captions. Audio was muted; this is a sampled visual review, not a complete audio transcript. Times below are approximate positions in the reel. Publication dates remain unknown. No media was downloaded or rehosted.
+These three creator references are supplemental to the 62-entry primary-source bibliography. Review on **2026-11-04 UTC** used the public caption, creator attribution, visible video frames and burned-in captions. Audio was muted; this is a sampled visual review, not a complete audio transcript. Times below are approximate positions in the reel. Publication dates remain unknown. No media was downloaded or rehosted.
 
 ### Matt: photo geotagging claim
 
@@ -81,6 +81,18 @@ The following names and uses were visible in sampled frames/captions. This is a 
 
 For the link-building suggestion, [Google's link-spam policy](https://developers.google.com/search/docs/essentials/spam-policies#link-spam), checked 2026-11-04, prohibits buying links for ranking purposes and permits appropriately qualified advertising/sponsorship links. The same policy warns against unauthorized automated search-result querying. Tool access, permitted collection methods and current terms need checking before operational use; none of these tools was installed, connected or purchased.
 
+### Rich Somers: local lead-generation model
+
+**Source:** [SEO business discussion by @rich_somers featuring @lukevanderveer](https://www.instagram.com/reel/DcR_og7pRRR/), about 43 seconds. Sampled burned-in captions across the reel were visually reviewed on 2026-11-04 UTC; this is not a complete audio transcript.
+
+**Observed model:** Around 2–8 seconds, the speaker selects a niche and city, emphasizing high-value work and using water-damage restoration as an example. Around 14–24 seconds, he discusses competition and search activity, then building a targeted site and ranking it with SEO. Around 25–38 seconds, he describes attracting customer calls and offering those customers to an actual service provider for a recurring monthly fee. The closing suggests repeating the model across niches.
+
+**Keep as a hypothesis:** Research service intent, local competition, operator capacity and the economics of a qualified inquiry together. The distinction from ordinary client SEO is important: this model proposes owning a lead-generating site and selling access to inquiries, rather than only improving a customer's existing site.
+
+**Validate before building:** Confirm an operator's real need, service area, response capacity, acceptable lead definition, duplicate/spam handling and willingness to pay. Model qualified inquiries × booking rate × completed-job contribution, then subtract acquisition, delivery and support costs. Treat all inputs as assumptions until measured. Define ownership, attribution, data handling, lead-sharing permission, complaints and exit terms before an authorized pilot. Represent the site's role honestly; do not fabricate an operating business, locations, reviews or results.
+
+The $200k/month headline, example job values and recurring-fee suggestion are unverified creator claims, not typical revenue, profit or a price recommendation. No site rankings, call records, customers, contracts or fulfilled jobs were independently checked. This is a candidate business model, not proven demand or a selected SMB offer.
+
 ### Proposed SMB checklist from these notes
 
 This is an original application of the reviewed ideas, not a workflow already executed:
@@ -91,4 +103,4 @@ This is an original application of the reviewed ideas, not a workflow already ex
 4. Establish a baseline before changes. Keep query, location, dates and measurement method consistent; distinguish map visibility, indexing, clicks and qualified inquiries.
 5. Pick tools only for a demonstrated gap. Treat paid optimizers and hosting changes as optional choices with costs and verification, not prerequisites for local SEO.
 
-See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all six newly added Reels. Historical audience metrics, prototype briefs and the 62-source register are unchanged.
+See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all eleven newly added Reels. Historical audience metrics, prototype briefs and the 62-source register are unchanged.
