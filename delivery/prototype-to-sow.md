@@ -40,3 +40,33 @@ Where volumes permit, a thirty-day baseline and thirty-to-sixty-day follow-up ma
 ## 5. Maintain only what has a recurring obligation
 
 Care should have finite checks, response expectations, support minutes and cost limits. Log actual labor, incidents and exceptions. Separate included work from upgrades and avoid double billing across care and add-ons. If the recurring benefit does not justify the price or effort, use a one-off engagement rather than forcing a subscription.
+
+## Client onboarding reference — 2026-11-04
+
+**Source:** [Client onboarding sequence by @ethanleblanc___](https://www.instagram.com/reel/DcfEmr4OVFZ/). The roughly 11-second reel presents what the creator sends after a client agrees to proceed. All eight numbered slides and the public caption were visually checked in the browser on 2026-11-04 UTC, with audio muted. Approximate positions below are navigation aids, not a transcript. Publication date unknown; no media or template package was downloaded.
+
+### Observed sequence
+
+| Approximate position | Creator's step | Concrete information shown |
+|---|---|---|
+| 3 seconds | Agreement | A services agreement comes before work begins. Its legal adequacy was not assessed. |
+| 4 seconds | Welcome document | Explain the process, communication expectations and required access. |
+| 5 seconds | Invoice | Make payment details explicit. No transaction, payment status or trust improvement was verified. |
+| 6 seconds | Access request | Collect brand materials, relevant platform access, prior examples and upcoming promotions. The example concerns email marketing; adapt the inputs to the actual service. |
+| 7 seconds | Kickoff meeting | Calendly is named for booking; Teams, Zoom or Google Meet for the call. These are examples, not required purchases. |
+| 8 seconds | Client portal | Give the client visibility into projects, dates and deliverables. The creator calls it secure; no permission or security testing was performed. |
+| 9 seconds | Organized delivery | Use Google Drive and a Notion portal to make handoff files easy to locate. |
+| 10 seconds | Monthly reporting | Keep reports in the portal and export/share them as needed. This is the creator's proposed cadence, not a schedule activated here. |
+
+### Useful adaptation for SMB delivery
+
+The useful pattern is a repeatable transition from agreement to delivery, with fewer unclear dependencies. It does not require adopting the creator's complete software stack.
+
+- Use one onboarding checklist with the responsible person, requested item, due date and completion evidence.
+- Make the welcome document answer four questions: what happens next, what the client must provide, where feedback goes, and who approves changes.
+- Translate access needs into named-user invitations and the minimum necessary roles. Do not request passwords or secret tokens by email or put them in the client portal. Check access separately from receipt of creative assets.
+- Use the kickoff to confirm scope, success criteria, unresolved dependencies and the next approval point. A meeting does not replace the agreed SOW.
+- Keep deliverables, decisions and status in one agreed location. Test the intended client's access before handoff; a portal screenshot does not prove privacy or usability.
+- Report completed work, evidence, open issues and the next decision. Include recurring reporting only when it serves an agreed ongoing obligation, consistent with section 5 above.
+
+These are original process suggestions, not a client-tested system or authorization to send messages, create accounts, grant access, invoice, buy tools or schedule meetings. The promotional caption offers a package in exchange for a comment; no comment, message or package request was sent. The [reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) preserves the canonical source link.
