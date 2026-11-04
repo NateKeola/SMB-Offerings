@@ -23,7 +23,7 @@ The [law-firm intake research package](../opportunities/law-firm-intake/README.m
 
 ## Reference additions — 2026-11-04
 
-Four Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04): construction-company website upgrades, a local-SEO tool overview, interactive scroll-animation inspiration and a mechanic-shop website/CRM example. The SEO reference is also linked in [SEO notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04). Review covered visible captions, attribution and opening frames only, not full playback or verified outcomes. The 15-reference historical snapshot and six original prototype directions remain unchanged.
+Five Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04): construction-company website upgrades, a local-SEO tool overview, interactive scroll-animation inspiration a mechanic-shop website/CRM example and a photo-geotagging SEO claim. The two SEO references now have [concrete, timestamped takeaways and evidence checks](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04), based on sampled frames and burned-in captions. The other three additions retain opening-frame-only coverage. No complete audio transcript, tool test or verified ranking outcome is claimed. Google's current photo guidance and ranking/link policies were checked; photo geotagging is not adopted as a proven ranking tactic. The 15-reference historical snapshot and six original prototype directions remain unchanged.
 
 ## Not established yet
 
