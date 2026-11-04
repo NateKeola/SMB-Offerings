@@ -50,9 +50,45 @@ Two private learning decks were delivered previously: sixteen slides on services
 
 ## Additional Instagram reference — 2026-11-04
 
-- **Reference:** [Local SEO tool overview by @camden.weup](https://www.instagram.com/reel/DfGhqQvpiIR/).
-- **Observed:** The opening frame presents a short local-SEO tool overview. The visible caption describes the creator's accumulated experience; that is a creator claim, not independently verified evidence.
-- **Review coverage:** Public caption, attribution and opening frame checked in the browser on 2026-11-04 UTC, with audio muted. No full playback or transcript review. Publication date unknown. No media was downloaded or rehosted.
-- **Use in these notes:** A discovery reference for a future tool comparison, not an endorsed tool stack or established SEO guidance. The full tool list, capabilities, pricing and outcome claims remain unassessed. Verify any candidate tool against current official documentation and the business's task before making a recommendation.
+These two creator references are supplemental to the 62-entry primary-source bibliography. Review on **2026-11-04 UTC** used the public caption, creator attribution, visible video frames and burned-in captions. Audio was muted; this is a sampled visual review, not a complete audio transcript. Times below are approximate positions in the reel. Publication dates remain unknown. No media was downloaded or rehosted.
 
-This supplemental creator reference is separate from the 62-entry primary-source bibliography and does not change the established guidance above. See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all four newly added Reels.
+### Matt: photo geotagging claim
+
+**Source:** [@mattxwebb's Google Business Profile tip](https://www.instagram.com/reel/DcJoXBFi-LO/) (about 27 seconds).
+
+**What is actually shown:** The opening presents a local-ranking trick. Around 11–14 seconds, a job photo is shown in ChatGPT with a geotagging request. Around 15 seconds, ChatGPT displays a claimed geotagged result and a WebP download link. Around 17–19 seconds, the demonstration returns to the Google Business Profile photo-management area. These frames establish the proposed workflow, not that the file contained valid GPS metadata, was successfully uploaded, or improved rankings.
+
+**Keep:** Maintain useful, authentic photos of completed work on an authorized business profile. Google recommends business photos and provides a Photos → Add photos workflow. Its current photo guidance specifies JPG or PNG, 10 KB–5 MB, and images that represent reality. The reel's visible WebP output therefore needs a format check before copying that workflow. [Google photo guidance, checked 2026-11-04](https://support.google.com/business/answer/6103862?hl=en).
+
+**Do not adopt as a proven tip:** Adding location metadata through ChatGPT is not established here as a ranking lever. Google's local-ranking guidance emphasizes relevance, distance and prominence and does not substantiate this geotagging claim. That absence is not proof that metadata can never matter; it is insufficient evidence to promise a boost or sell geotagging as a validated service. Prioritize complete, accurate business information and useful customer evidence. Do not assign false job locations. [Google local-ranking guidance, checked 2026-11-04](https://support.google.com/business/answer/7091?hl=en).
+
+### Camden: tools mapped to useful jobs
+
+**Source:** [@camden.weup's local SEO tool overview](https://www.instagram.com/reel/DfGhqQvpiIR/) (about 43 seconds). This deeper review supersedes the earlier opening-frame-only note for this reel.
+
+The following names and uses were visible in sampled frames/captions. This is a creator's workflow, not a tested procurement recommendation; pricing, permissions, current capabilities and every spoken detail were not checked.
+
+| Approximate position | Observed tool or approach | Useful takeaway / boundary |
+|---|---|---|
+| 7–8 seconds | Semrush for keyword research | Build a candidate query list around real services and customer intent; do not infer demand from a tool name. A Google Ads tool is also mentioned, but the complete name was not captured. |
+| 10 seconds | Google Trends interface for trends | Investigate changes in interest rather than treating a trend graphic as qualified lead demand. |
+| 12–16 seconds | Detailed SEO; competitor page titles, tags and metadata | Inspect competing pages for questions and coverage gaps. Do not copy their text or assume their settings caused rankings. |
+| 17–23 seconds | PlePer Local SEO Tools; primary and secondary profile categories | Compare relevant competitor categories, then choose categories that truthfully fit the business rather than copying indiscriminately. |
+| 25–26 seconds | Cloudflare for hosting | Record it as a hosting choice, not an SEO result or an instruction to migrate. |
+| 27–30 seconds | LeadSnap for local rank tracking, with map-grid and before/after graphics | Measure a fixed set of queries and locations over time; the reel's graphics do not establish causal lift or typical outcomes. |
+| 33–35 seconds | Chambers of commerce and local sports leagues for links | Consider genuine local relationships and useful listings. Do not buy ranking credit; paid/sponsored links need appropriate qualification. |
+| 36–40 seconds | Search Console for tracking/indexing and PageOptimizer Pro for page optimization | Separate measurement and index diagnostics from third-party optimization suggestions; a tool score is not a business outcome. |
+
+For the link-building suggestion, [Google's link-spam policy](https://developers.google.com/search/docs/essentials/spam-policies#link-spam), checked 2026-11-04, prohibits buying links for ranking purposes and permits appropriately qualified advertising/sponsorship links. The same policy warns against unauthorized automated search-result querying. Tool access, permitted collection methods and current terms need checking before operational use; none of these tools was installed, connected or purchased.
+
+### Proposed SMB checklist from these notes
+
+This is an original application of the reviewed ideas, not a workflow already executed:
+
+1. Define the actual service, customer question and service area; map a small query set to useful pages.
+2. Compare three relevant competitor pages and profiles. Record gaps in coverage and truthful category options with evidence.
+3. Audit the business's own profile facts and photo library. Publish only authorized, authentic work photos in a supported format; skip the unproven geotagging shortcut.
+4. Establish a baseline before changes. Keep query, location, dates and measurement method consistent; distinguish map visibility, indexing, clicks and qualified inquiries.
+5. Pick tools only for a demonstrated gap. Treat paid optimizers and hosting changes as optional choices with costs and verification, not prerequisites for local SEO.
+
+See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all five newly added Reels. Historical audience metrics, prototype briefs and the 62-source register are unchanged.
