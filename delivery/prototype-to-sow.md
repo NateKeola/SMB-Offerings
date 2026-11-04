@@ -70,3 +70,37 @@ The useful pattern is a repeatable transition from agreement to delivery, with f
 - Report completed work, evidence, open issues and the next decision. Include recurring reporting only when it serves an agreed ongoing obligation, consistent with section 5 above.
 
 These are original process suggestions, not a client-tested system or authorization to send messages, create accounts, grant access, invoice, buy tools or schedule meetings. The promotional caption offers a package in exchange for a comment; no comment, message or package request was sent. The [reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) preserves the canonical source link.
+
+## Auto-shop voice intake reference — 2026-11-04
+
+**Source:** [Auto-shop voice-agent demonstration by @jasoncooperson](https://www.instagram.com/reel/DdrUdGbkrT0/), about 2 minutes 24 seconds. Public attribution, caption, the visible flow diagram and selected demonstration frames were reviewed on 2026-11-04 UTC. Audio was muted; this is not a full call transcript or an independent system test. Publication date unknown. No template, media or build package was downloaded.
+
+### Observed workflow and limits
+
+- The diagram shows greeting → appointment availability → caller and vehicle details → service list → text for VIN/parts → wrap-up → confirmation/end. AI disclosure and human transfer appear as cross-cutting branches.
+- Around 17 seconds, appointment availability is highlighted. Around 61 seconds, the text-for-VIN/parts step is highlighted. Around 68 seconds, a phone displays an appointment-related text requesting follow-up vehicle information. A displayed message does not establish delivery, correct calendar state or a working backend.
+- Around 77 seconds, a visible caption refers to AI. The diagram establishes that disclosure and human transfer are part of the presented design, not that their timing, consent handling or reliability was tested.
+- Around 126 seconds, the creator displays a $2,000 build and $500/month retainer. This is unverified creator pricing, not a confirmed sale, cost model or proposed SMB price.
+
+### Useful bounded adaptation
+
+Treat this as an intake and handoff pattern rather than an autonomous mechanic or guaranteed booking system. A proposed fictional-data demo could collect the requested service, vehicle and preferred time, then show a clearly labeled pending request for staff review. Live calendar writes, texts and transfers remain separate authorized integration work.
+
+Acceptance tests should cover unavailable or stale slots, duplicate requests, ambiguous dates and time zones, incorrect vehicle details, caller corrections, declined texting, failed delivery, requests for a person, transfer failure and recovery. Read back the requested work and distinguish a requested time from a confirmed appointment. Do not infer parts compatibility or quote repair prices from incomplete vehicle information. Keep collection minimal, control access and retention, and verify disclosure, messaging and recording requirements before any live use.
+
+The useful offer is a narrow, measurable improvement to a real intake problem. Measure successful handoffs, accurate requests, staff rework and operating cost before promising recovered revenue. No voice agent, calendar, phone number or messaging provider was built, connected or tested here. See the [reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04).
+
+## Multi-location proposal reference — 2026-11-04
+
+**Source:** [Itemized AI-services proposal shown by @timchaoai](https://www.instagram.com/reel/DekQzOxvFNw/), about three minutes. Public attribution, caption and selected proposal frames were visually reviewed on 2026-11-04 UTC with audio muted. This is not a complete transcript, client contract review or verified sales record. Publication date unknown; no media or proposal file was downloaded.
+
+**Observed:** The proposal separates lead capture/nurture, advertising content, attribution, organic content and website/CRM work. A later page, visible around 1:11, adds search visibility, publishing, review workflows, affiliate operations and launch support. The proposal distinguishes a reusable initial build from recurring work per location. Monthly categories include ad management, engineering/support/reporting and AI usage; advertising spend is excluded and paid separately to platforms.
+
+**Useful adaptation:** Sell a defined customer workflow and its upkeep, not an unspecified AI bundle. For a proposed SMB SOW:
+- Name one outcome and map the journey from inquiry through staff action to fulfilled work.
+- Separate a shared foundation from each location's content, permissions, integrations, configuration and acceptance checks. A copied template is not a tested rollout.
+- Price implementation, recurring labor, model/provider usage and pass-through advertising separately. State usage caps, overages, reporting, support and who owns the accounts.
+- Stage optional modules after the core task is validated. Search, reviews, affiliate work and automated publishing each need their own scope, authorization and quality checks.
+- Measure qualified inquiries and completed work alongside delivery reliability and actual costs; content volume and automation count are not ROI.
+
+The opening $32,000 deal claim and all displayed proposal totals are unverified creator claims or quoted amounts, not evidence of collected revenue, profit, customer success or appropriate SMB pricing. No client identity, contact details, original proposal text or footage is reproduced here. No campaign, review request, affiliate outreach, publication or integration was authorized or executed.
