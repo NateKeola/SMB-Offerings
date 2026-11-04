@@ -23,7 +23,14 @@ The [law-firm intake research package](../opportunities/law-firm-intake/README.m
 
 ## Reference additions — 2026-11-04
 
-Six Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04): construction-company website upgrades, a local-SEO tool overview, interactive scroll-animation inspiration, a mechanic-shop website/CRM example, a photo-geotagging SEO claim and an eight-step client onboarding sequence. The two SEO references now have [concrete, timestamped takeaways and evidence checks](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04), based on sampled frames and burned-in captions. The [onboarding reference](../delivery/prototype-to-sow.md#client-onboarding-reference--2026-11-04) includes all eight visually checked slides and practical process adaptations; its agreement, security and outcome claims were not validated. The three website/design additions retain opening-frame-only coverage. No complete audio transcript, tool test or verified ranking outcome is claimed. Google's current photo guidance and ranking/link policies were checked; photo geotagging is not adopted as a proven ranking tactic. The 15-reference historical snapshot and six original prototype directions remain unchanged.
+Eleven Instagram links were added to the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04), bringing it to 26 links: 18 Reels, five YouTube videos and three websites.
+
+- Three website/design references retain opening-frame-only coverage: construction upgrades, scroll animation and mechanic-shop website/CRM packaging.
+- [SEO notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04) extract tools, a photo-geotagging workflow and a local lead-generation model from sampled frames/captions. Google's current photo guidance and ranking/link policies were checked; geotagging is not adopted as a proven ranking tactic.
+- [Delivery notes](../delivery/prototype-to-sow.md#client-onboarding-reference--2026-11-04) include all eight onboarding slides, an auto-shop voice-intake diagram and sampled demonstration, and a multi-location proposal with separate build/recurring costs.
+- [Outreach notes](../outreach/playbook.md#discovery-to-demo-reference--2026-11-04) capture a discovery-to-preview pattern and a cold-call objection-handling example. Neither authorizes contact, group scraping or an active campaign.
+
+Review on 2026-11-04 UTC was visual with muted audio, not complete audio transcripts. Revenue, price, ranking, sales and reliability claims remain unverified. No creator asset was downloaded, no system independently reproduced, and no buyer demand established. The 15-reference historical snapshot, 62-entry primary-source SEO bibliography and six original prototype directions remain unchanged.
 
 ## Not established yet
 
