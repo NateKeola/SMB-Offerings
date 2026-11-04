@@ -103,4 +103,4 @@ This is an original application of the reviewed ideas, not a workflow already ex
 4. Establish a baseline before changes. Keep query, location, dates and measurement method consistent; distinguish map visibility, indexing, clicks and qualified inquiries.
 5. Pick tools only for a demonstrated gap. Treat paid optimizers and hosting changes as optional choices with costs and verification, not prerequisites for local SEO.
 
-See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all eleven newly added Reels. Historical audience metrics, prototype briefs and the 62-source register are unchanged.
+See the [video reference index](../research/video-reference-index.md#additional-instagram-references--2026-11-04) for all twelve newly added Reels. Historical audience metrics, prototype briefs and the 62-source register are unchanged.
