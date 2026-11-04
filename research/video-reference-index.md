@@ -1,8 +1,8 @@
 # Public video and website reference index
 
-Historical source observations from **2026-11-02**. Consolidated from the [exact archive commit](https://github.com/NateKeola/Dogfood/blob/ebfbd71319364fe803b82bbd7af7e58434d667e5/projects/idea-archive/data/ideas.json). No new playback or live metric check was performed for this handoff.
+Historical source observations from **2026-11-02**. Consolidated from the [exact archive commit](https://github.com/NateKeola/Dogfood/blob/ebfbd71319364fe803b82bbd7af7e58434d667e5/projects/idea-archive/data/ideas.json). No new playback or live metric check was performed for the historical handoff; later reviews are labeled separately below.
 
-The 15 historical references comprise seven Instagram Reels, five YouTube videos and three supplemental websites. Four later Instagram additions are recorded separately below, bringing this index to 19 links (eleven Reels, five YouTube videos and three websites). The historical metric snapshot remains unchanged. All fifteen original briefs and all six clustered directions remain planned; zero customer demos are built.
+The 15 historical references comprise seven Instagram Reels, five YouTube videos and three supplemental websites. Five later Instagram additions are recorded separately below, bringing this index to 20 links (twelve Reels, five YouTube videos and three websites). The historical metric snapshot remains unchanged. All fifteen original briefs and all six clustered directions remain planned; zero customer demos are built.
 
 | Reference | Public creator / publisher | Published | Review method |
 |---|---|---|---|
@@ -24,14 +24,15 @@ The 15 historical references comprise seven Instagram Reels, five YouTube videos
 
 ## Additional Instagram references — 2026-11-04
 
-These four links were added after the historical archive. Review was limited to the visible public caption, creator attribution and opening on-screen frame in the browser on **2026-11-04 UTC**, with audio muted. None of these reels was watched in full or transcribed. Publication dates remain unknown. Canonical links omit sharing/tracking parameters; no media or creator assets were downloaded or rehosted.
+These five links were added after the historical archive. Browser review on **2026-11-04 UTC** covered public captions and creator attribution. The construction, animation and mechanic-shop references have opening-frame review only. The two SEO references received deeper sampled-frame and burned-in-caption review, with approximate positions and concrete takeaways in the SEO notes. Audio was muted; no complete audio transcript was reviewed. Publication dates remain unknown. Canonical links omit sharing/tracking parameters; no media or creator assets were downloaded or rehosted.
 
 | Reference | Public creator | Topic observed | Review limits / use |
 |---|---|---|---|
 | [Construction-company website upgrades](https://www.instagram.com/reel/Db3YtNHAU9w/) | @siterabbits | Opening frame introduces construction-company website improvements; caption addresses business owners, construction and roofing businesses | Website-offering inspiration only. Specific recommendations, implementation quality and business results have not been verified. |
-| [Local SEO tool overview](https://www.instagram.com/reel/DfGhqQvpiIR/) | @camden.weup | Opening frame presents a short local-SEO tool overview | Added to [SEO reference notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04). Full tool list, claims, current capabilities and pricing have not been assessed. |
+| [Local SEO tool overview](https://www.instagram.com/reel/DfGhqQvpiIR/) | @camden.weup | Named tools for keywords, competitor pages/categories, hosting, map-rank tracking and content optimization | Sampled frames/captions across the reel support [timestamped tool notes](../seo/search-and-ai-visibility.md#camden-tools-mapped-to-useful-jobs). Not a complete transcript; pricing, capabilities and claimed ranking outcomes unverified. |
 | [Interactive website scroll-animation inspiration](https://www.instagram.com/reel/DfQqbIkNxSg/) | @tmvdesignstudio | Opening frame promotes website scroll animations; visible caption introduces interactive websites beyond generic templates | Visual inspiration only. The $6K headline is an unverified creator claim, not an established market price, paid result or proposed SMB offer. Implementation, accessibility and performance remain unassessed. |
 | [Mechanic-shop website and CRM reference](https://www.instagram.com/reel/DfACJ7FvBa1/) | @arctech.co (ARC Tech) | Visible caption describes a mechanic-shop website and CRM system; opening frame states a $2,000 setup fee and $197/month | Service-package inspiration only. Pricing, sale/completion and system functionality are unverified creator claims, not independently verified revenue, an established market rate or a proposed SMB offer. Delivery scope, operating costs and business results remain unassessed. |
+| [Google Business Profile photo geotagging tip](https://www.instagram.com/reel/DcJoXBFi-LO/) | @mattxwebb | ChatGPT geotagging request/result followed by business-profile photo management | [Observed workflow and evidence check](../seo/search-and-ai-visibility.md#matt-photo-geotagging-claim). Authentic business photos are useful; the metadata change and claimed ranking benefit are unverified. Sampled visual review only. |
 
 These additions do not create new validated offers, prototype briefs or demand evidence. They are not included in the historical [metric snapshot](reference-snapshots.json), and no new audience metrics are recorded here.
 
