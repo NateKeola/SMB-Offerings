@@ -31,6 +31,8 @@ The [supplemental SEO reel notes](../seo/search-and-ai-visibility.md#additional-
 
 The [client onboarding reference](../delivery/prototype-to-sow.md#client-onboarding-reference--2026-11-04), also reviewed 2026-11-04, adds an observed eight-step sequence and proposed SMB adaptations. It does not adopt the creator's tools, validate a contract or portal, or authorize outreach, invoicing, accounts, permission changes or a reporting schedule.
 
+The later [discovery and outreach examples](../outreach/playbook.md#discovery-to-demo-reference--2026-11-04), [local lead-generation model](../seo/search-and-ai-visibility.md#rich-somers-local-lead-generation-model) and [voice-intake/proposal references](../delivery/prototype-to-sow.md#auto-shop-voice-intake-reference--2026-11-04) add specific patterns and validation questions. Creator revenue, pricing and sales claims remain unverified. These are research inputs, not chosen markets, new offers, outreach permission or working integrations.
+
 ## Change protocol
 
 When the user changes a preference, record the date, new instruction and affected workflow. Keep the previous entry as superseded history if it matters. New source evidence can change a factual assessment but cannot authorize outreach, spending or production work. Do not infer that elapsed time lifted a hold.
