@@ -25,6 +25,10 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 | Cleaning package | Assistant research hypothesis | $99 diagnostic credit; $399 repair; $149 care | Validate willingness to pay and delivery costs; not chosen ICP |
 | Qualification ranking | Proposed operating aid | Explain priorities only after evidence gates | No opaque composite score or automated approval |
 
+## Evidence update — 2026-11-04
+
+The [supplemental SEO reel notes](../seo/search-and-ai-visibility.md#additional-instagram-reference--2026-11-04) now extract concrete tool uses and a photo workflow rather than archiving links alone. Sampled visual evidence and current Google guidance are kept separate from creator claims. Photo geotagging is not adopted as a validated ranking service, and the named tool stack does not authorize purchases, installations or account changes. This evidence update does not select a new ICP or change the service offer.
+
 ## Change protocol
 
 When the user changes a preference, record the date, new instruction and affected workflow. Keep the previous entry as superseded history if it matters. New source evidence can change a factual assessment but cannot authorize outreach, spending or production work. Do not infer that elapsed time lifted a hold.
