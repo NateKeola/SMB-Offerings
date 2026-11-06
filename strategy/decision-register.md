@@ -28,3 +28,13 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 ## Change protocol
 
 When the user changes a preference, record the date, new instruction and affected workflow. Keep the previous entry as superseded history if it matters. New source evidence can change a factual assessment but cannot authorize outreach, spending or production work. Do not infer that elapsed time lifted a hold.
+
+## 2026-11-06 — Categorized research prompts and Dogfood mirror
+
+**Decision:** Preserve a public-safe, original [research prompt package](../research/idea-mining/README.md) in SMB Offerings and mirror its nine files in Dogfood research/smb-idea-mining. Apply the existing Software Factory adoption map to evidence, current conclusions, decisions and handoff.
+
+**Alternatives considered:** Replacing existing research or populating the gallery would mix historical evidence with new ideas and require application checks. Installing the full factory harness would activate unrelated workflows. Neither is part of this documentation scope.
+
+**Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
+
+**Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
