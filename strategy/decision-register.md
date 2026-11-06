@@ -12,6 +12,8 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 | Prototypes | User direction | Rapid, bounded demonstrations with an honest value and effort explanation | Fictional or authorized data; separate planned, built, tested and paid |
 | Offer structure | User direction | Low entry cost plus a menu and optional retainers | Validate caps and actual cost before adopting prices |
 | Calling | User preference; execution pending | Calling first, with public business contacts | Prepare questions and evidence; do not dial without authorization |
+| Outbound AI phone assessment | User research direction, 2026-11-03 | Research how to build agent-led outbound SMB phone assessments | [Technical design and costs](../opportunities/outbound-phone-audit/README.md); documentation is not authorization to place calls |
+| Phone assessment stack | Assistant recommendation, not a vendor selection | Build measurement and gates; evaluate hosted speech with metadata-only retention | Twilio measurement baseline; Vapi candidate; Retell/Telnyx alternatives; eligibility and live tests unresolved |
 | Email | Active user restriction | No further email sending | Drafts only until the user explicitly changes the hold |
 | LinkedIn / visits | Desired channels; execution pending | Human activity can complement calls | Cadence templates are plans; no automated activity |
 | Downloads | Active user restriction | Explain exact item and reason before downloading | Prefer existing local material and read-only tools |
