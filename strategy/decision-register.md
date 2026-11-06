@@ -38,3 +38,15 @@ When the user changes a preference, record the date, new instruction and affecte
 **Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
 
 **Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
+
+## 2026-11-06 — Contractor audit app specification and prioritized tools
+
+**Decision:** Extend the same mirrored package with an Astra prompt for a California-first contractor-license/business-profile matching and website-audit app, designed to prepare qualified call leads at increasing scale. Keep Washington, Oregon and Arizona as later source adapters with independent permission gates. Maintain a living tools/services list that distinguishes nearly essential audit capabilities from optional paid enrichment and owner-only analytics.
+
+**Alternatives considered:** Assuming public access or API payment grants unrestricted bulk storage/export was rejected. Blocking all useful progress until a Google adapter is available was also rejected; permitted license records and independently obtained business website evidence can support the initial workflow.
+
+**Reasoning:** Scale follows validated source rights, entity resolution, evidence quality and economical qualification. Match confidence, website audit and lawful contact readiness remain distinct. A published phone number is not consent to call. The app prompt creates no active integration, campaign or database.
+
+**Documentation clarification:** Public-safe SMB/Dogfood project correspondence may inform complete original documentation. Exclude sensitive business details and private third-party information, minimize personal information and avoid raw transcript dumps. Reference photos are intended as inspiration for original video concepts, not verbatim reuse; transformation alone does not establish copyright safety or permission to upload assets.
+
+**Validation and next step:** Add eleven-file mirrored package; preserve existing branches and earlier research. Reverify changed content and draft PR heads. Full repository validator remains not run in this connector-only workflow. The implementation stage needs its own source review, access/budget approval where required, tests and private data destination.
