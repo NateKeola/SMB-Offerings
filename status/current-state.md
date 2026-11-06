@@ -51,3 +51,11 @@ Public content excludes real leads/contacts, raw registry rows, suppression reco
 ## Scope of claims
 
 No-issue and unknown outcomes are useful research results. A website may work well; a business may have no need or capacity. The research engine must be able to disqualify such candidates. Preparation-ready, built/tested, offered, paid and delivered are separate milestones. Neither source popularity nor a passing software test proves market fit.
+
+## 2026-11-06 — Research prompt package
+
+Added [nine categorized research documents](../research/idea-mining/README.md), also mirrored in Dogfood research/smb-idea-mining. Coverage includes SEO evidence/coverage scoring, permitted prospect sourcing, rights-aware redesign, client-specific compliance research, review/after-hours workflows and qualified Ulysses/Yates/Zach Reel takeaways.
+
+These are original reusable research/design prompts and hypotheses, not new real customer audits, lead records, implemented agents or verified business results. Factory context discipline is applied without installing or activating the dormant harness. Next step: choose a bounded market/task sample and collect permitted evidence; no outreach or execution is authorized by the prompts.
+
+At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood has no open PRs. Earlier five-open-draft wording is historical. The new work does not merge or modify those branches. See [validation and limits](../research/idea-mining/validation.md), including the unrun full repository validator.

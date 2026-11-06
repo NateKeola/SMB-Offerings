@@ -67,3 +67,7 @@ Research summaries and tables are visible here; customer/contact records and pri
 **User direction** records an expressed preference. **Observed/reported** states what the dated source supports. **Hypothesis** is an offer, price, ICP or design to validate. **Unknown/not assessed** is missing evidence, not a negative result. **Proposed** is a new operating template in this consolidation, not a workflow already executed.
 
 This public repository excludes real leads, contacts, private reports, credentials, client records and unrelated personal work. Public source links and original summaries are preserved; creator assets and proprietary articles are not rehosted. See [AGENTS.md](AGENTS.md) for working rules and [validation](status/validation.md) for the checks applied to this handoff.
+
+## Research prompts and categorized ideas — 2026-11-06
+
+- [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
