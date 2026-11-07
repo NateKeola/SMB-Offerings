@@ -59,3 +59,9 @@ Added [nine categorized research documents](../research/idea-mining/README.md), 
 These are original reusable research/design prompts and hypotheses, not new real customer audits, lead records, implemented agents or verified business results. Factory context discipline is applied without installing or activating the dormant harness. Next step: choose a bounded market/task sample and collect permitted evidence; no outreach or execution is authorized by the prompts.
 
 At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood has no open PRs. Earlier five-open-draft wording is historical. The new work does not merge or modify those branches. See [validation and limits](../research/idea-mining/validation.md), including the unrun full repository validator.
+
+## 2026-11-07 — Government AI research channel
+
+Added [government-AI diligence](../opportunities/government-ai/README.md), including post-claim checks, procurement routes, competitors, buyer segments, illustrative economics and a validation plan. It does not replace the existing wholesale/local-service direction. The private queue contains six research entries across five organizations and four held/excluded records; none is buyer-qualified. No suitable open federal RFP was fully qualified in this bounded pass.
+
+No new application or automation was built. No outreach, registration, bid or paid activity occurred. The required Python repository validator remains unrun because no execution environment is available; scoped content/link/arithmetic checks and publication readback are distinct. See [source and verification details](../opportunities/government-ai/sources-and-validation.md).

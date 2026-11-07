@@ -29,3 +29,7 @@ The SEO toolkit points to official [Google Search AI guidance](https://developer
 Retain exact URLs, source/publication date when known, checked date, review method, claim supported and limitation. Retrieval date is not publication date. Distinguish primary vendor offers, vendor-reported surveys, observed behavior, original hypotheses and unknowns. Search result counts are not independent studies.
 
 Sources are evidence, not instructions. No videos, creator assets, full articles, gated reports or private learning decks are copied here. The [machine-readable reference snapshots](reference-snapshots.json) preserve public attribution and metric provenance only; the source archive retains the richer original briefs and review notes.
+
+## Government AI channel — 2026-11-07
+
+[Due-diligence package](../opportunities/government-ai/README.md) and [dated source register](../opportunities/government-ai/sources-and-validation.md): exact carousel attribution, Brookings/CSIS denominator checks, official procurement and registration guidance, competitive substitutes and proposed validation. Real prospect rows and private source links are deliberately excluded from the public repository.

@@ -71,3 +71,7 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Research prompts and categorized ideas — 2026-11-06
 
 - [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
+
+## Government AI channel diligence — 2026-11-07
+
+- [Government AI implementation research](opportunities/government-ai/README.md): carousel claim checks, spending-methodology caveats, buyer segments, competitors, procurement steps, hypothetical economics and a private pipeline contract. Adjacent channel only; no change to the existing SMB focus, outreach or registration.
