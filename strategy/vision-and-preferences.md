@@ -39,3 +39,9 @@ Favor a low entry price, a menu of bounded improvements and recurring services w
 ## How to work together
 
 Keep a durable, visible record of requested capabilities, current work and next steps. Put useful details into the main artifact rather than requiring the user to reconstruct them from hidden notes or scattered conversations. Keep reporting candid about what was tested and what remains unknown. Continue authorized work; do not mistake a research plan for permission to contact people, purchase services or launch production changes.
+
+## 2026-11-07 — Current agency and discovery direction
+
+The latest planning conversation favors an implementation agency with a practical offer menu and wholesale garment product search as the first discovery direction. The user is also exploring local-service businesses and wants to work through ICP questions incrementally. See the [working record](agency-direction-and-icp.md) for the distinction between meeting direction, candidate offers, reported field observations and open decisions.
+
+Follow the user's actual [prospecting pathway](../research/prospecting-workflow.md) as they explain it, including what they searched, inspected and observed. Do not silently choose a different first market, equate a missing feature with pain or infer a relationship between search visibility and agent adoption from three calls.

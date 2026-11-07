@@ -71,3 +71,8 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Research prompts and categorized ideas — 2026-11-06
 
 - [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
+
+## Agency direction and ICP discovery — 2026-11-07
+
+- [Latest agency direction and open ICP questions](strategy/agency-direction-and-icp.md): wholesale-first meeting direction, candidate offer menu and the user's anonymized three-roofer anecdote. No final local-service ICP, adoption rate or search-ranking relationship is established.
+- [Evolving prospecting workflow](research/prospecting-workflow.md): capture the user's actual pathway, inspect customer tasks, compare service categories and preserve evidence/unknowns. Includes a proposed agent harness, not an implemented or authorized outreach system.

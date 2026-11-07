@@ -31,7 +31,7 @@ The recommendation is to build the measurement and eligibility layer and evaluat
 
 | Gap | Why it matters | Next useful evidence |
 |---|---|---|
-| Chosen first live ICP/geography | Catalog and service profiles have different buyer/data needs | User choice after a small evidence-based comparison |
+| Validated first live ICP/geography | Latest meeting favors wholesale garments; local-service alternatives remain under review | Confirm the first wedge, buyer/task, geography and pilot criteria using the [working record](../strategy/agency-direction-and-icp.md) |
 | Real pipeline quality | Synthetic fixtures and a five-row registry sample are not a qualified lead list | A bounded permitted private sample with identity/task evidence |
 | Buyer demand / willingness to pay | Published vendor offers and appealing demos are not transactions | Authorized buyer conversations and a paid, scoped pilot |
 | Actual delivery/support economics | Modeled hours and churn can miss integration and incident cost | Time logs, provider bills, scope changes and customer outcomes |
@@ -59,3 +59,11 @@ Added [nine categorized research documents](../research/idea-mining/README.md), 
 These are original reusable research/design prompts and hypotheses, not new real customer audits, lead records, implemented agents or verified business results. Factory context discipline is applied without installing or activating the dormant harness. Next step: choose a bounded market/task sample and collect permitted evidence; no outreach or execution is authorized by the prompts.
 
 At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood has no open PRs. Earlier five-open-draft wording is historical. The new work does not merge or modify those branches. See [validation and limits](../research/idea-mining/validation.md), including the unrun full repository validator.
+
+## 2026-11-07 — Agency direction and field-learning record
+
+Added a [public-safe planning synthesis](../strategy/agency-direction-and-icp.md) and [evolving prospecting workflow](../research/prospecting-workflow.md). The meeting's initial direction is wholesale garment search; the user is separately exploring roofing/local-service intake and wants incremental ICP questions. The candidate menu and proposed harness are documentation, not built capabilities.
+
+New evidence is limited to the user's anecdotal report of three roofing calls: one AI agent, one text agent and one with no agent observed. The last reportedly appeared farther from the first search-results page. Identities, queries, exact positions, detailed outcomes and independent verification are unavailable. No market-prevalence, ranking-causation, financial-loss or willingness-to-pay conclusion follows.
+
+This task made no calls or submissions, contacted no prospects, built no application, activated no providers and merged no PR. Sensitive business details, private links, transcripts and client records were excluded. Scoped documentation checks and exact remote readback are recorded in the resulting draft PR; the full repository validator remains unrun in this connector-only workflow.
