@@ -1,6 +1,6 @@
 # Evolving prospecting workflow
 
-Recorded 2026-11-07. **Proposed framework**, grounded in the user's reported pathway of finding businesses in search, inspecting their presence and calling three roofers. The exact sequence, queries and websites are not yet known. This is not a description of a working agent or a completed audit.
+Recorded and expanded 2026-11-07. **Proposed framework**, grounded in the user's reported pathway of finding businesses in search, inspecting their presence and calling three roofers. Later context points to a private worksheet; reconcile its examples privately. Exact search context, sequence and call-to-business mapping need verification. This is not a description of a working agent or a completed audit.
 
 Use the [agency/ICP working record](../strategy/agency-direction-and-icp.md), [qualification gates](../strategy/opportunity-qualification.md) and [opportunity template](../templates/opportunity-record.md). Extend the process as the user supplies details; do not replace their pathway with an invented funnel.
 
@@ -97,4 +97,19 @@ Keep business/contact records, screenshots with personal data, call material and
 
 ## 6. Next capture
 
-Start with one of the three roofing examples, privately: **What did the user search, what site did they open, what did they try, and what happened when they called?** Ask for the next missing detail one at a time. Do not invent names, URLs, rankings or outcomes to fill the worksheet.
+Start with one of the three roofing examples, privately: **What did the user search, what site did they open, what did they try, and what happened when they called?** Check the supplied private worksheet before asking for facts already available. Ask for the next missing detail one at a time. Do not invent names, URLs, rankings or outcomes to fill the worksheet.
+
+## 7. Compare strong and weak journeys
+
+The user wants to study effective same-industry websites and blogs, then turn useful patterns into improvements. A high search position, paid ad or polished site is a comparison candidate, not proof of conversion performance.
+
+1. Choose the same customer task, service/product type and relevant geography. Record why examples are comparable and what differs.
+2. Record the query and distinguish ads, Maps and organic results; inspect a bounded set of pages, not an invented exhaustive index.
+3. Map homepage → relevant service/product page → supporting information → contact/quote route. Include mobile behavior, visible trust evidence, CTA wording, fields and next-step expectations.
+4. For a useful blog/resource, record its URL, topic, user question, recency, original observations and links into a genuine service/product path. Volume, word count and keywords alone do not establish usefulness or ranking causation.
+5. Write the transferable pattern in original words: for example, clear service eligibility before an inquiry, or an appropriate RFQ route from a product page. Record the task benefit and a test that could confirm it.
+6. Distinguish structural inspiration from permission to reproduce text, photography, code, branding, testimonials or full pages. Build original assets/copy or use separately authorized material; do not create misleading local pages or false claims.
+
+Keep a private comparison matrix with tested page, task, working pattern, friction, visibility context, evidence date and untested conversion steps. A public pattern library should contain reviewed original summaries and permitted public sources, not prospect dossiers. It should improve the [ICP cards](../strategy/icp-discovery-cards.md), not replace buyer discovery.
+
+For source ordering, storage and automation acceptance, use the [research harness contract](../architecture/prospect-research-harness.md). For actual calls and follow-up outcomes, use the [private activity ledger](../templates/research-and-contact-ledger.md), not the public research notes.

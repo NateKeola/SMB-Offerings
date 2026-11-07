@@ -43,7 +43,7 @@ The user reported calling three roofing businesses:
 | Business B | Had a text agent | Whether it was SMS, web chat or another flow; automation and quality |
 | Business C | Had no agent and appeared farther from the first search-results page | Exact query, rank, surface, location, time and whether an agent existed on another channel |
 
-Names, URLs, exact search terms, call times and detailed outcomes have not been supplied. Do not reconstruct them or turn these three rows into identifiable lead records.
+At the initial capture, identities and detailed outcomes were unavailable. The later conversation points to an existing private worksheet for some examples; reconcile that privately rather than publishing identities or assuming which row maps to which response setup. Exact search context and the agent-to-business mapping still need verification. These anonymous rows are not identifiable lead records.
 
 **What this supports:** Different response setups were encountered in this small sample. A presence/absence field is useful when mapping the journey.
 
@@ -64,7 +64,15 @@ Ask one question at a time during the working conversation; retain unknowns inst
 7. **Delivery fit:** Which data, permissions and integrations are available, and what must remain human-controlled?
 8. **Commercial test:** What bounded paid pilot and acceptance criteria would test willingness to pay?
 
-No minimum company size, revenue, search rank, review count, budget or final geography has been selected here. See the [prospecting workflow](../research/prospecting-workflow.md) for a flexible way to preserve the user's actual pathway.
+No minimum company size, revenue, search rank, review count or budget has been selected here. Earlier sourcing direction focused on Los Angeles, Ventura and Santa Barbara counties; the later request is for configurable location/industry discovery. Confirm each batch's geography separately from the first commercial pilot. See the [prospecting workflow](../research/prospecting-workflow.md) and [discovery cards](icp-discovery-cards.md) for a flexible way to preserve the user's actual pathway.
+
+## Later conversation: turn observations into an operating system
+
+**User direction:** Categorize the business conversation and connect it to a navigable repository. Develop roofing and wholesale ICPs, inspect SEO separately from inquiry/conversion paths, compare effective websites, find candidates by location and industry, identify business decision roles, and track actual outreach and learning. The user wants source-backed preparation that helps them conduct calls and understand each industry's workflow.
+
+**Proposed execution:** Use the [topic index](conversation-index.md), [research harness contract](../architecture/prospect-research-harness.md) and [private contact ledger](../templates/research-and-contact-ledger.md). Capture website walkthroughs and buyer corrections as reviewed examples before automating judgment. Existing source applications and other draft work are not automatically integrated or merged.
+
+**Still open:** The first commercial wedge, specific buyer-confirmed pain, pilot terms, validated technical effort and willingness to pay. The meeting discussed a near-term in-person demonstration, but that is a planning aspiration, not a confirmed appointment or execution authorization. Name, website, menu and pitch remain preparation items. No unverified brand name, private client detail or deal claim is adopted here.
 
 ## Evidence and publication boundary
 

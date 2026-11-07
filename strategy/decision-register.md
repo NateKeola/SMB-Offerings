@@ -52,3 +52,15 @@ When the user changes a preference, record the date, new instruction and affecte
 **Documentation:** Preserve the [working direction, offer ideas and questions](agency-direction-and-icp.md), and a [flexible prospecting framework](../research/prospecting-workflow.md) covering site checks, comparable customer categories, screening and a proposed harness. New suggestions remain labeled as proposals. No agents, outreach, integrations or purchases were activated; no merge is authorized by this record.
 
 **Superseded context:** The baseline entry said no initial vertical was selected. The meeting now provides an initial wholesale direction, not a validated ICP or a final decision to exclude other markets. Historical research remains intact.
+
+## 2026-11-07 — Categorize the full prospecting direction
+
+**User direction:** Make the latest conversation and business-planning context navigable, develop separate roofing and wholesale ICPs, inspect SEO and customer acquisition, source candidates by location/industry, prepare useful call lists and retain actual outreach/learning. Preserve the user's website walkthroughs and corrections as the basis for a future harness.
+
+**Documentation decision:** Add a [topic index](conversation-index.md), [ICP discovery cards](icp-discovery-cards.md), [shared research contract](../architecture/prospect-research-harness.md), [private ledger template](../templates/research-and-contact-ledger.md) and [staged continuation prompts](../codex/PROSPECTING-NEXT-STEPS.md). Extend the existing PR rather than create a duplicate. The shared engine does not imply a single pitch or identical scoring checks for every industry.
+
+**Ranking clarification:** Reuse the existing explainable SEO/readiness, coverage and research-priority rubric; do not invent a second lead score. Research priority, evidence gates, buyer validation and authorization to contact remain different states. Preserve successful journeys and existing-tool alternatives.
+
+**Publication boundary:** Use original synthesis, empty schemas and public source references. Identifiable records and private source material stay private. No employer-owned playbook or proprietary sequence is copied. The request to prepare and index outreach does not itself authorize messages or calls.
+
+**Concurrency:** PR #6 already holds the contractor app prompt/tools extension; PR #4 has separate reference work and a reported merge conflict. Re-read live status before integration. This branch does not merge, rebase or modify either workstream, and does not claim locally reported applications are deployed.
