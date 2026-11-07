@@ -12,7 +12,7 @@ Use this with the [ICP template](../templates/icp.md), [opportunity record](../t
 | HVAC/plumbing | Routing or qualification may matter more than more traffic | Unanswered qualified calls, dispatcher workload, capacity by job type | Urgency, availability and operational reliability; avoid autonomous triage |
 | Industrial/MRO distribution | Sales/branch operations or ecommerce/IT; exact specifications and availability | Search/rep lookup evidence, authorized catalog and buyer-defined tasks | ERP/PIM, units, equivalents, permissions and safety-critical specifications |
 
-These are hypotheses from the [industry research](https://github.com/NateKeola/Dogfood/blob/5bbe43b32bb8941106c5505c92f438bd4e4e0fe0/research/smb-service-opportunities/industry-analysis.md), not a selected market or a claim of local prevalence.
+The table retains hypotheses from the [industry research](https://github.com/NateKeola/Dogfood/blob/5bbe43b32bb8941106c5505c92f438bd4e4e0fe0/research/smb-service-opportunities/industry-analysis.md), not proof of demand or local prevalence. The [2026-11-07 working record](agency-direction-and-icp.md) adds a meeting-level wholesale-first direction and ongoing local-service discovery; it does not validate any profile.
 
 ## Gate sequence
 
@@ -52,3 +52,9 @@ For `local-service-inquiry-v1`, confirm a real service on a public page, then te
 Compare qualified candidates on observable dimensions: frequency/severity of the task, buyer access, capacity, usable data, prototype effort, integration risk, measurement feasibility and likely support burden. Give each a short source-backed rationale with low/medium/high confidence and explicit unknowns. Prefer a small reproducible problem that the buyer recognizes and can measure.
 
 This rubric is a manual planning aid, not calibrated probability, market demand or an engine feature. Hard holds and suppressions always take precedence. An evidence-poor candidate does not become ready through a high aggregate score.
+
+## 2026-11-07 — Follow the observed customer journey
+
+Use the [evolving prospecting workflow](../research/prospecting-workflow.md) to preserve the user's actual search, site-inspection and calling pathway as details become available. Its website checks, comparable categories and harness are proposed operating aids, not implemented features.
+
+Record search position and agent presence separately from task pain. The user's three-roofer anecdote is too small and uncontrolled to establish adoption rates or any relationship between visibility and automation. Neither a low rank nor a missing agent qualifies a prospect without the existing identity, fit, pain and value gates. Distinguish agent absence from not observing one on a particular channel, and preserve existing-tool and no-issue outcomes.

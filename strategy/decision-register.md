@@ -6,7 +6,7 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 |---|---|---|---|
 | Proven, better, new | User direction | Start with existing demand and improve it; weigh new capabilities secondarily | Record the established pattern, improvement and validation gap |
 | Market breadth | User direction | Established SMBs across industries; wholesale garments was an initial example | Shared engine with specific profiles, not Shopify-only targeting |
-| First live ICP | Open | No final vertical/geography/budget selected | Cleaning quote-flow remains a research hypothesis |
+| First live ICP | Meeting direction, updated 2026-11-07; discovery ongoing | Wholesale garment distributors are the initial meeting direction; local-service alternatives, geography and budget remain open | See [latest ICP working record](agency-direction-and-icp.md); cleaning and roofing are not silently selected |
 | Discovery | User direction | Favor permitted low-cost official datasets and source-backed research | Registration and missing fields never substitute for verification |
 | Opportunity diagnosis | User direction | Concrete task friction and useful data precede a pitch | No automatic chatbot/AI or redesign pitch |
 | Prototypes | User direction | Rapid, bounded demonstrations with an honest value and effort explanation | Fictional or authorized data; separate planned, built, tested and paid |
@@ -40,3 +40,27 @@ When the user changes a preference, record the date, new instruction and affecte
 **Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
 
 **Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
+
+## 2026-11-07 — Agency direction and incremental ICP discovery
+
+**Source classes:** User-requested original synthesis of the latest business-planning conversation, plus a subsequent user-reported three-roofer anecdote. Private source material and sensitive details are not published.
+
+**Direction:** Build a practical implementation agency with a bounded menu. The meeting favored wholesale garment distributors and an honest product-search demonstration first; reliable system integration remains separate work. The user is also examining local-service response workflows and wants to refine the ICP one question at a time. Whether that changes the first market remains open.
+
+**Evidence:** Three roofing calls reportedly encountered an AI agent, a text agent and no agent. The last business appeared farther from the first search-results page. The sample is anecdotal, unnamed and not independently verified. It establishes neither adoption prevalence nor causation between search position and agent presence.
+
+**Documentation:** Preserve the [working direction, offer ideas and questions](agency-direction-and-icp.md), and a [flexible prospecting framework](../research/prospecting-workflow.md) covering site checks, comparable customer categories, screening and a proposed harness. New suggestions remain labeled as proposals. No agents, outreach, integrations or purchases were activated; no merge is authorized by this record.
+
+**Superseded context:** The baseline entry said no initial vertical was selected. The meeting now provides an initial wholesale direction, not a validated ICP or a final decision to exclude other markets. Historical research remains intact.
+
+## 2026-11-07 — Categorize the full prospecting direction
+
+**User direction:** Make the latest conversation and business-planning context navigable, develop separate roofing and wholesale ICPs, inspect SEO and customer acquisition, source candidates by location/industry, prepare useful call lists and retain actual outreach/learning. Preserve the user's website walkthroughs and corrections as the basis for a future harness.
+
+**Documentation decision:** Add a [topic index](conversation-index.md), [ICP discovery cards](icp-discovery-cards.md), [shared research contract](../architecture/prospect-research-harness.md), [private ledger template](../templates/research-and-contact-ledger.md) and [staged continuation prompts](../codex/PROSPECTING-NEXT-STEPS.md). Extend the existing PR rather than create a duplicate. The shared engine does not imply a single pitch or identical scoring checks for every industry.
+
+**Ranking clarification:** Reuse the existing explainable SEO/readiness, coverage and research-priority rubric; do not invent a second lead score. Research priority, evidence gates, buyer validation and authorization to contact remain different states. Preserve successful journeys and existing-tool alternatives.
+
+**Publication boundary:** Use original synthesis, empty schemas and public source references. Identifiable records and private source material stay private. No employer-owned playbook or proprietary sequence is copied. The request to prepare and index outreach does not itself authorize messages or calls.
+
+**Concurrency:** PR #6 already holds the contractor app prompt/tools extension; PR #4 has separate reference work and a reported merge conflict. Re-read live status before integration. This branch does not merge, rebase or modify either workstream, and does not claim locally reported applications are deployed.

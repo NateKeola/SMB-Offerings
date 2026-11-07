@@ -8,6 +8,8 @@ This repository contains strategy, operating preferences, research indexes, offe
 
 ## Start here
 
+For the latest conversation, start with the [topic and workstream index](strategy/conversation-index.md). It connects the meeting, roofing field-learning, wholesale discovery, audit methods, contact records and next-step prompts without publishing private source material.
+
 1. Read [vision and preferences](strategy/vision-and-preferences.md) and [the decision register](strategy/decision-register.md).
 2. Review [current status and limits](status/current-state.md), then [the source projects and exact commits](status/source-projects.md).
 3. Use [opportunity qualification](strategy/opportunity-qualification.md) and [research protocol](research/research-protocol.md) to define a bounded batch.
@@ -71,3 +73,13 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Research prompts and categorized ideas — 2026-11-06
 
 - [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
+
+## Agency direction and ICP discovery — 2026-11-07
+
+- [Conversation and workstream index](strategy/conversation-index.md): the map from requested outcomes to the right document, with source classes, open decisions and public/private boundaries.
+- [Latest agency direction and open ICP questions](strategy/agency-direction-and-icp.md): wholesale-first meeting direction, candidate offer menu and the user's anonymized three-roofer anecdote. No final local-service ICP, adoption rate or search-ranking relationship is established.
+- [Evolving prospecting workflow](research/prospecting-workflow.md): capture the user's actual pathway, inspect customer tasks, compare service categories and preserve evidence/unknowns. Includes a proposed agent harness, not an implemented or authorized outreach system.
+- [Roofing and wholesale ICP cards](strategy/icp-discovery-cards.md): distinct buyer tasks, screening criteria, interviews, pilot outcomes and scope ladders.
+- [Location/industry research harness](architecture/prospect-research-harness.md): bounded discovery, source rights, identity, SEO/acquisition checks, explainable priority and learning/evaluation requirements. Design only.
+- [Private research and contact ledger template](templates/research-and-contact-ledger.md): business, contact, evidence, activity and next-action fields. Never populate actual records in the public repository.
+- [Staged next-step prompts](codex/PROSPECTING-NEXT-STEPS.md): reuse and coordinate existing work before implementing overlapping apps.

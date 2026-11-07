@@ -14,6 +14,8 @@ The user will create the project from this repository. The following prompt supp
 
 ## Useful next-task choices
 
+For the latest agency and prospecting conversation, use the [topic index](../strategy/conversation-index.md) and [staged continuation prompts](PROSPECTING-NEXT-STEPS.md). Inspect current branches and artifacts first; historical source-PR status in this kickoff is not a live integration inventory.
+
 - Complete an ICP and evidence plan for one small, permitted private research sample.
 - Compare catalog discovery with local-service inquiry repair using observed need, access, scope and economics.
 - Specify one fictional-data prototype and its acceptance tests before building it.
