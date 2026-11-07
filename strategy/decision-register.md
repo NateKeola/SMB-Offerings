@@ -40,3 +40,11 @@ When the user changes a preference, record the date, new instruction and affecte
 **Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
 
 **Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
+
+## 2026-11-07 — Government AI channel diligence
+
+**User direction:** Investigate the linked government-AI carousel, research its market and steps, identify a pipeline and connect the work to SMB Offerings.
+
+**Research conclusion:** [The channel has evidenced activity](../opportunities/government-ai/README.md), but headline spending cohorts are not clean annual totals and registration is not qualification. Explore one bounded training or document-workflow service through a suitable buyer or established contractor. This is an assistant hypothesis, not a new selected first market.
+
+**Scope:** Original public-safe documentation in a separate draft; named research records stay private. Existing agency/ICP [PR #7](https://github.com/NateKeola/SMB-Offerings/pull/7) and all other work remain separate. No outreach, registrations, paid training, provider activation, bid submission, merge or deployment is authorized by this research. Full repository validation is blocked by the unavailable execution environment; [verification limits](../opportunities/government-ai/sources-and-validation.md) are explicit.
