@@ -1,6 +1,18 @@
 # Agency direction and open ICP questions
 
-Recorded 2026-11-07. This is an original, public-safe synthesis of the latest business-planning conversation and the user's subsequent three-business field report. It is a working record, not a transcript, customer case study or finalized offer.
+Recorded 2026-11-07; priority updated 2026-11-08. This is an original, public-safe synthesis of the business-planning conversation, the user's three-business field report and subsequent direction. It is a working record, not a transcript, customer case study or finalized offer.
+
+## Current North Star: Los Angeles textile-wholesaler semantic search
+
+**Explicit user direction, 2026-11-08:** Make semantic product search for textile wholesalers the main focus. Start in the Los Angeles area, develop the niche into a repeatable offering across multiple wholesaler websites, then expand into other services. The earlier garment-wholesale discussion is background; the current target is textile wholesalers.
+
+**Why this is the priority:** The user considers this the strongest signal and wants to concentrate effort on one niche. This records a strategic choice, not independently validated market demand or proof that semantic search will improve every website. Reuse across websites is an intended delivery model whose catalog differences, integration effort and support burden still need testing.
+
+**What remains to validate:** The buyer and exact product-finding task; repeated friction versus an effective existing search route; permission to use catalog data; identifiers, variants and freshness; willingness to pay; and a bounded pilot's acceptance criteria. The Los Angeles area is the starting geography; a precise boundary and sample cap belong in the next batch brief.
+
+**Sequence:** Prioritize textile catalog discovery and a bounded semantic-search demonstration. Preserve roofing, local-service and other wholesale research for later expansion and comparison. Do not treat those tracks as competing first priorities unless the user changes direction. Reliable production search, live inventory, order drafts and backend order creation remain separate scopes.
+
+**User's target-screening direction:** Look for wholesalers with weak or absent natural-language product search, poor inquiry or member-signup forms, or limited chatbot help with backend-dependent tasks. These are candidate screening hypotheses, not established pain or a requirement to add AI everywhere. Test the visible product-finding journey with a realistic descriptive query, such as an orange T-shirt, and inspect the relevant forms. A public search result cannot establish whether AI is used; a chat interface cannot establish backend connectivity. Record unknowns and verify the actual buyer workflow before proposing an offer. The discovery card defines the evidence boundaries.
 
 ## Current direction from the planning conversation
 
@@ -11,7 +23,7 @@ Recorded 2026-11-07. This is an original, public-safe synthesis of the latest bu
 - **Working preference:** Build reusable capabilities where that makes sense. This is not a decision to rebuild every infrastructure service or a verified build-versus-buy conclusion.
 - **Preparation still needed:** Finalize the name, website, scoped menu, preliminary pricing assumptions and demonstration boundaries. These are planning items, not completed deliverables.
 
-The user is also investigating local-service businesses and wants to develop the ICP one question at a time. Wholesale is the meeting's initial direction; whether roofing or another service category replaces it, complements it or remains research is **open**.
+The user is also investigating local-service businesses and wants to develop the ICP one question at a time. The 2026-11-08 direction above resolves the earlier first-focus question: Los Angeles textile-wholesaler semantic search takes priority. Local-service research remains useful background and a later expansion track.
 
 ## Offer menu discussed
 
@@ -55,7 +67,7 @@ At the initial capture, identities and detailed outcomes were unavailable. The l
 
 Ask one question at a time during the working conversation; retain unknowns instead of silently filling them.
 
-1. **First wedge:** Does wholesale remain the first focus, or are local-service businesses now the priority?
+1. **Selected first focus:** Los Angeles-area textile wholesalers and semantic product search. Which recurring product-finding task should the first bounded test address?
 2. **Buyer and work:** Which owner/team and which recurring customer task are we trying to improve?
 3. **Failure point:** In the actual journey, where did a customer get stuck or have to wait? What worked?
 4. **Fit and capacity:** What company size, geography, job types and available capacity make the problem worth solving?
@@ -64,7 +76,7 @@ Ask one question at a time during the working conversation; retain unknowns inst
 7. **Delivery fit:** Which data, permissions and integrations are available, and what must remain human-controlled?
 8. **Commercial test:** What bounded paid pilot and acceptance criteria would test willingness to pay?
 
-No minimum company size, revenue, search rank, review count or budget has been selected here. Earlier sourcing direction focused on Los Angeles, Ventura and Santa Barbara counties; the later request is for configurable location/industry discovery. Confirm each batch's geography separately from the first commercial pilot. See the [prospecting workflow](../research/prospecting-workflow.md) and [discovery cards](icp-discovery-cards.md) for a flexible way to preserve the user's actual pathway.
+No minimum company size, revenue, search rank, review count or budget has been selected here. Earlier sourcing direction covered Los Angeles, Ventura and Santa Barbara counties, and the reusable discovery design supports configurable locations/industries. The current first focus is the Los Angeles area; define its exact boundary and batch cap without silently expanding it. See the [prospecting workflow](../research/prospecting-workflow.md) and [discovery cards](icp-discovery-cards.md) for a flexible way to preserve the user's actual pathway.
 
 ## Later conversation: turn observations into an operating system
 
@@ -72,7 +84,7 @@ No minimum company size, revenue, search rank, review count or budget has been s
 
 **Proposed execution:** Use the [topic index](conversation-index.md), [research harness contract](../architecture/prospect-research-harness.md) and [private contact ledger](../templates/research-and-contact-ledger.md). Capture website walkthroughs and buyer corrections as reviewed examples before automating judgment. Existing source applications and other draft work are not automatically integrated or merged.
 
-**Still open:** The first commercial wedge, specific buyer-confirmed pain, pilot terms, validated technical effort and willingness to pay. The meeting discussed a near-term in-person demonstration, but that is a planning aspiration, not a confirmed appointment or execution authorization. Name, website, menu and pitch remain preparation items. No unverified brand name, private client detail or deal claim is adopted here.
+**Still open after the priority decision:** Specific buyer-confirmed pain, pilot terms, validated technical effort and willingness to pay. The meeting discussed a near-term in-person demonstration, but that is a planning aspiration, not a confirmed appointment or execution authorization. Name, website, menu and pitch remain preparation items. No unverified brand name, private client detail or deal claim is adopted here.
 
 ## Evidence and publication boundary
 

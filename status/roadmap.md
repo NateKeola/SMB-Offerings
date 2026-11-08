@@ -2,9 +2,11 @@
 
 This is a dependency-ordered proposal, not an active campaign, schedule or authorization to spend. The user decides the next project objective after opening this repository in Codex.
 
+Priority updated 2026-11-08: the user chose Los Angeles-area textile-wholesaler semantic search first, with reuse across multiple websites before expansion into other services. The steps below validate and scope that focus; they do not reopen the initial niche choice.
+
 | Order | Work | Completion evidence | Boundary |
 |---:|---|---|---|
-| 1 | Choose one narrow ICP, geography and workflow | Completed ICP worksheet, exclusions and sample cap | Cleaning is a candidate, not an assumed decision |
+| 1 | Scope the selected Los Angeles textile-wholesale search focus | Exact area/product boundaries, buyer task, exclusions and sample cap in the ICP worksheet | The first niche is selected; demand and detailed fit remain unvalidated |
 | 2 | Resolve permitted source and identity process | Source rights, field meanings, source date and identity rules | Explain any dataset/export download before doing it |
 | 3 | Review a small private sample | Identity/access/fit outcomes, reproduced tasks, no-issue/unknown counts | No bulk expansion or outreach from mere registrations |
 | 4 | Select a reusable demonstration | Buyer task, fixture data, acceptance tests, setup/maintenance estimate | No invented live integration or customer relationship |

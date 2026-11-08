@@ -1,6 +1,8 @@
 # Staged prospecting prompts
 
-Updated 2026-11-07. Use these as handoffs to the **existing relevant workstream** after reading its latest result. They are not records that a prompt was dispatched, an app was built or a prospect was contacted. Read the [conversation index](../strategy/conversation-index.md) first.
+Updated 2026-11-08. Use these as handoffs to the **existing relevant workstream** after reading its latest result. They are not records that a prompt was dispatched, an app was built or a prospect was contacted. Read the [conversation index](../strategy/conversation-index.md) first.
+
+**Priority:** After reviewing existing work, use the wholesale prompt below for Los Angeles-area textile-wholesaler semantic search. The user selected this niche first, aiming for a repeatable offering across multiple websites before expanding into other services. Preserve the roofing and broader prompts for later work; their numbering does not make them earlier priorities.
 
 ## Shared preamble
 
@@ -34,9 +36,11 @@ Use synthetic data until private access controls and storage are verified. Desig
 
 ## 4. Validate the wholesale wedge
 
-Use the wholesale card and existing approved private list. Confirm identity and the actual buying model before diagnosing public search. Test a known item, a realistic descriptive query and relevant variants/filters with a working control. Preserve sites whose customer route works well or cannot be assessed. Research garments and other wholesale categories separately; do not require construction as the market.
+Use the wholesale card and any existing approved private list. Scope the first batch to textile wholesalers in the Los Angeles area, with explicit area/product boundaries and a cap. Confirm identity and the actual buying model before diagnosing public search. Test a known item, a realistic descriptive query and relevant variants/filters with a working control. Preserve sites whose customer route works well or cannot be assessed. Keep non-textile wholesale and local-service categories as later expansion, not a substitute first focus.
 
-Prepare questions that distinguish language/identifier search friction from stock, price, account access or operational issues. Recommend the smallest permitted search/RFQ demonstration and required data contract. Keep live stock, customer-specific pricing, order drafting and backend order creation as separate scopes. Do not present a demo as deployed or fabricate commercial results.
+Apply the user's screening hypotheses to visible product-search behavior, inquiry/member-signup form usability and chatbot usefulness. A query such as an orange T-shirt is illustrative, not a universal catalog test. Do not infer AI architecture, backend connectivity, stock freshness or successful transactions from the public interface. Inspect without form submission, signup or record creation; leave backend behavior unknown until separately authorized evidence is available. A missing chatbot or form alone does not establish customer pain.
+
+Prepare questions that distinguish language/identifier search friction from stock, price, account access or operational issues. Recommend the smallest permitted semantic-search demonstration and required data contract. Identify what can be reused across wholesaler websites and what requires site-specific catalog mapping, integration and support; repeatability remains a hypothesis. Keep RFQ/order drafting, live stock, customer-specific pricing and backend order creation as separate scopes. Do not present a demo as deployed or fabricate commercial results.
 
 **Deliver:** Private evidence-backed shortlist or honest shortfall, owner questions, bounded demo scope and integration-risk assessment. No outreach or production data access.
 
@@ -48,4 +52,4 @@ After reviewed examples exist, convert permitted walkthrough steps and correctio
 
 ## Sequence and completion
 
-Run inventory first. Roofing and wholesale observation work can proceed independently with separate private records; the common schema/harness has one owner. Review observations before automating them. A passing documentation check is not a functioning acquisition system or proof of market demand. Return the exact artifact/PR links and the next unresolved decision rather than marking all stages complete.
+Run inventory first, then prioritize the Los Angeles textile-wholesale task and bounded search demonstration. Reuse the common schema/harness with one owner rather than starting a competing implementation. Preserve other tracks and their private records for later expansion. Review observations before automating them. A passing documentation check is not a functioning acquisition system or proof of market demand. Return the exact artifact/PR links and the next unresolved validation or scope question rather than marking all stages complete.

@@ -5,8 +5,8 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 | Topic | Status / source class | Decision or open choice | Consequence |
 |---|---|---|---|
 | Proven, better, new | User direction | Start with existing demand and improve it; weigh new capabilities secondarily | Record the established pattern, improvement and validation gap |
-| Market breadth | User direction | Established SMBs across industries; wholesale garments was an initial example | Shared engine with specific profiles, not Shopify-only targeting |
-| First live ICP | Meeting direction, updated 2026-11-07; discovery ongoing | Wholesale garment distributors are the initial meeting direction; local-service alternatives, geography and budget remain open | See [latest ICP working record](agency-direction-and-icp.md); cleaning and roofing are not silently selected |
+| Market breadth | User direction, priority clarified 2026-11-08 | Start with textile wholesalers; other services remain later expansion | Preserve broad research and reusable capabilities without diluting the first niche |
+| First strategic focus | Explicit user direction, 2026-11-08; validation pending | Semantic product search for Los Angeles-area textile wholesalers, repeatable across multiple wholesaler websites before expanding into other services | See [current North Star](agency-direction-and-icp.md#current-north-star-los-angeles-textile-wholesaler-semantic-search); buyer demand, detailed ICP and pilot terms remain unvalidated |
 | Discovery | User direction | Favor permitted low-cost official datasets and source-backed research | Registration and missing fields never substitute for verification |
 | Opportunity diagnosis | User direction | Concrete task friction and useful data precede a pitch | No automatic chatbot/AI or redesign pitch |
 | Prototypes | User direction | Rapid, bounded demonstrations with an honest value and effort explanation | Fictional or authorized data; separate planned, built, tested and paid |
@@ -64,3 +64,17 @@ When the user changes a preference, record the date, new instruction and affecte
 **Publication boundary:** Use original synthesis, empty schemas and public source references. Identifiable records and private source material stay private. No employer-owned playbook or proprietary sequence is copied. The request to prepare and index outreach does not itself authorize messages or calls.
 
 **Concurrency:** PR #6 already holds the contractor app prompt/tools extension; PR #4 has separate reference work and a reported merge conflict. Re-read live status before integration. This branch does not merge, rebase or modify either workstream, and does not claim locally reported applications are deployed.
+
+## 2026-11-08: Textile-wholesale semantic search is the North Star
+
+**Source class:** Explicit user direction, summarized from a voice conversation without publishing transcript text or private source links.
+
+**Decision:** Prioritize semantic product search for textile wholesalers in the Los Angeles area. Concentrate on the niche and make the offering repeatable across multiple wholesaler websites, then expand into other services.
+
+**Screening direction:** Use natural-language product-search quality, inquiry/member-signup form usability and useful chatbot support as candidate screens. Treat gaps as hypotheses, preserve effective alternatives and unknowns, and do not infer AI architecture or backend connectivity from a public interface. No rule that every candidate must fail all three screens was established.
+
+**Rationale and limits:** The user identifies this as the strongest signal. That is the user's strategic assessment, not independent demand evidence. Repeated buyer pain, catalog access, search quality, willingness to pay, delivery economics and cross-website repeatability remain hypotheses to test.
+
+**Superseded context:** The November 7 records left the first commercial focus open between wholesale and local services. That strategic choice is now resolved; a detailed validated ICP and pilot are still pending. Preserve those historical records, roofing observations and other research as background and later-expansion options.
+
+**Consequence:** Align current strategy, discovery cards and next-step guidance with the textile/Los Angeles focus. This update records direction only. It does not implement search, create another product, authorize outreach or integration, or merge any PR.

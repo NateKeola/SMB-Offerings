@@ -1,6 +1,8 @@
 # ICP discovery cards
 
-Updated 2026-11-07. **Proposed research cards**, not validated customer segments or promises that these businesses need AI. Use the [qualification gates](opportunity-qualification.md), [private worksheet](../templates/icp.md) and [observation workflow](../research/prospecting-workflow.md).
+Updated 2026-11-08. **Proposed research cards**, not validated customer segments or promises that these businesses need AI. Use the [qualification gates](opportunity-qualification.md), [private worksheet](../templates/icp.md) and [observation workflow](../research/prospecting-workflow.md).
+
+**Current priority, explicitly chosen by the user:** Semantic product search for textile wholesalers in the Los Angeles area. Develop a repeatable offering across multiple wholesaler websites before expanding into other services. Start with the [wholesale card](#wholesale-catalog-discovery). Roofing and adjacent-category cards remain preserved research, not equal first priorities. See the [current direction and evidence limits](agency-direction-and-icp.md#current-north-star-los-angeles-textile-wholesaler-semantic-search).
 
 ## Shared definition
 
@@ -10,7 +12,7 @@ For every card, record: buyer role; task; business/service area; observed workfl
 
 ## Roofing inquiry and quote preparation
 
-**Origin:** User-reported calls to three roofers and a request to learn intake, follow-up, quoting and website differences. This is a separate discovery track from the wholesale-first meeting direction.
+**Origin:** User-reported calls to three roofers and a request to learn intake, follow-up, quoting and website differences. Preserve this as a separate learning and later-expansion track; the 2026-11-08 textile-wholesale priority comes first.
 
 | Dimension | Working hypothesis or required evidence |
 |---|---|
@@ -48,20 +50,34 @@ Do not diagnose roof condition, structural safety or an emergency from a prospec
 
 ## Wholesale catalog discovery
 
-**Origin:** Latest agency meeting's initial focus on garment wholesalers, with later interest in other wholesale categories. Familiarity with a workflow is not evidence that every wholesaler needs the same system.
+**Origin and current scope:** The earlier meeting discussed garment wholesalers. On 2026-11-08, the user explicitly selected semantic product search for textile wholesalers in the Los Angeles area as the main focus, with reuse across multiple websites before expansion into other services. Familiarity with a workflow and a selected niche do not establish buyer demand. Other wholesale categories remain comparisons or later expansion.
 
 | Dimension | Working hypothesis or required evidence |
 |---|---|
+| Selected starting segment | Textile wholesalers in the Los Angeles area; define the precise area, textile product scope, exclusions and batch cap before research |
 | Buyer | Owner, sales operations, ecommerce lead or branch operations; verify authority and IT/data dependencies |
 | Customer task | Find a known item or suitable product using codes, description and attributes, then prepare a useful RFQ |
-| Compare like with like | Garment distributor versus plumbing, industrial or other supplier; catalog breadth, customer type, geography and purchasing model |
+| Compare like with like | Within textile wholesale, distinguish product range, catalog breadth, buyer type, geography and purchasing model; keep non-textile supplier comparisons separate |
 | Inspect first | Exact known-product control; manufacturer/distributor code difference; descriptive query; variant/filter handling; RFQ route |
 | Candidate pain | Repeated buyer-task failure or buyer-confirmed rep lookup burden; absence of public search may be deliberate for account-only catalogs |
-| First offer | Bounded product-discovery demo on permitted catalog data, with provenance and explicit demonstration limits |
+| First offer to validate | Bounded semantic product-search demo on permitted textile catalog data, with provenance and explicit demonstration limits |
+| Repeatability hypothesis | A shared search approach can serve multiple wholesaler websites; test catalog mapping, identifiers, variants, integration effort and support separately for each site |
 | Baseline | Agreed task success, time to a useful result/RFQ, wrong-variant rate and rep clarification workload |
 | Pilot acceptance | Held-out product tasks meet agreed criteria; known-item accuracy, variant correctness and honest unknowns; no invented stock/price |
 | Integration discovery | Catalog/PIM/ERP source, update schedule, API/export permission, units, variants, pricing visibility and data owner |
 | Disqualifiers | No reproducible task gap, no usable rights/data, unreliable identifiers, unsupported safety-critical substitutions or too much integration for the pilot |
+
+### User-selected screening hypotheses
+
+On 2026-11-08, the user described target candidates through product-search, inquiry/member-signup and chatbot gaps. These guide discovery; they do not establish that every gap exists, that all three must coexist, or that a buyer will pay to fix one.
+
+| Screening hypothesis | What to inspect in a separately scoped check | What the result cannot establish |
+|---|---|---|
+| Weak or absent natural-language product search | Try a realistic description such as an orange T-shirt, where relevant to the catalog, and compare with an exact known-item/code control. Record result relevance, color/product/variant correctness, no-result behavior and usable alternative routes. | A query's success or failure does not identify an AI/semantic architecture. No visible search box or blocked catalog is not proof that search is absent. |
+| Poor inquiry or member-signup form | Trace the relevant inquiry, membership/account-registration or add-member route where applicable. Inspect field clarity, necessary information, visible errors, mobile usability and next-step expectations without submitting. Preserve intentional account-only access and not-applicable outcomes. | Public inspection cannot establish submission, backend receipt, account approval, abandonment or business loss. A member form need not exist for every buying model. |
+| Limited useful chatbot support | Inspect visible capabilities and the buyer task the chat claims to support. Distinguish approved catalog answers from inventory, account, pricing or order claims. Any interaction test needs its own scope and must avoid creating records or disclosing private data. | A widget, fluent answer or vendor claim cannot prove backend connectivity, data freshness, permissions or successful write operations. Mark these unknown until supported by authorized system evidence. |
+
+For each screen, retain observed working/friction, unknown, not assessable and not applicable outcomes. Compare the existing route and a working control before proposing a change. Buyer confirmation, catalog/system rights and separately authorized integration tests are required before describing a backend-dependent capability as verified. This documentation update does not perform those checks or authorize form submissions, account creation or live client testing.
 
 ### Scope ladder
 
@@ -93,4 +109,4 @@ Do not assume products are equivalent solely from semantic similarity. For techn
 
 ## Choosing the next commercial wedge
 
-Compare the tracks on verified pain, buyer access, data availability, small-pilot feasibility, measurable outcome and support burden. Record what is known and the single next test per criterion. Do not rank by estimated company revenue or hypothetical ROI alone. A public-site candidate can enter research before a buyer conversation, but cannot be described as buyer-validated or commercially qualified until that evidence exists.
+The first strategic focus is selected: Los Angeles textile-wholesaler semantic search. Use verified pain, buyer access, data availability, small-pilot feasibility, measurable outcome and support burden to qualify candidates within that focus. Keep cross-track comparisons for later expansion or an explicit change in direction. Record what is known and the single next test per criterion. Do not rank by estimated company revenue or hypothetical ROI alone. A public-site candidate can enter research before a buyer conversation, but cannot be described as buyer-validated or commercially qualified until that evidence exists.

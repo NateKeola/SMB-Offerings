@@ -32,3 +32,15 @@ Continued the existing draft branch from reviewed head 57e544d765b5eb8a0425a65c3
 - The relevant private planning meeting and user conversation were reviewed as source material; neither transcripts, private links, identifying prospect data, deal terms nor unrelated personal information are included.
 
 The changed content is documentation only. No app tests, browser flow tests, live audit batches, source-adapter calls, database migrations, client integrations, outreach or production deployment were performed by this update. External URLs were recorded rather than fetched by the validator; source prices, platform terms and entitlements must be rechecked before operational use. Exact remote publication and CI status are recorded in the draft PR after publication, not inferred from a local pass. No merge is authorized.
+
+## 2026-11-08: Textile-wholesale priority update
+
+Continued draft PR #7 from reviewed remote head e9b6e22d5ffdab748bb1faff475a2ea5e5f549fb. The existing clean local snapshot had the same tree, 219d1af2df388e8ea0075f8e267ea6509cf5503f. No new repository, package, dataset, media or client-export download was needed.
+
+- Full documentation validation passed: 108 text files, 692 Markdown links and 251 unique external URLs recorded.
+- Local targets, JSON/CSV shapes, source counts, pinned provenance, whitespace and public-content pattern checks passed. All 31 vendored upstream files remain byte-identical; no upstream code executed.
+- Git whitespace checks and manual diff/public-suitability review completed. The update contains original strategy summaries only, with no transcript text, private links, identifiable leads or customer results.
+- The user's selected niche/geography and intended cross-website reuse are distinguished from hypotheses about demand, willingness to pay, integration effort and repeatability. Earlier research and dated decisions are preserved.
+- Product-search, inquiry/member-signup and chatbot screening criteria are documented as hypotheses, with explicit limits on inferring architecture or backend connectivity from public behavior. No search, form or chat test was performed by this update.
+
+Only documentation changed. No new screening experiment, search implementation, parallel product implementation, live client integration, outreach, merge or deployment occurred. External URLs were not fetched by the validator. Application tests and browser-flow tests were not run. Remote publication and exact-commit CI observations belong in the PR after publication; a local documentation pass is not a CI or market-validation claim.

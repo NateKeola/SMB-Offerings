@@ -45,3 +45,9 @@ Keep a durable, visible record of requested capabilities, current work and next 
 The latest planning conversation favors an implementation agency with a practical offer menu and wholesale garment product search as the first discovery direction. The user is also exploring local-service businesses and wants to work through ICP questions incrementally. See the [working record](agency-direction-and-icp.md) for the distinction between meeting direction, candidate offers, reported field observations and open decisions.
 
 Follow the user's actual [prospecting pathway](../research/prospecting-workflow.md) as they explain it, including what they searched, inspected and observed. Do not silently choose a different first market, equate a missing feature with pain or infer a relationship between search visibility and agent adoption from three calls.
+
+## 2026-11-08: Focus on textile-wholesaler semantic search first
+
+The user explicitly chose semantic product search for textile wholesalers in the Los Angeles area as the main North Star. Build depth in that niche and work toward a repeatable offering across multiple wholesaler websites, then expand into other services. This supersedes the earlier open first-focus question while preserving the broader research.
+
+The priority is user direction; market demand, cross-website repeatability and commercial results remain unvalidated. See the [current strategy](agency-direction-and-icp.md#current-north-star-los-angeles-textile-wholesaler-semantic-search) and [wholesale discovery card](icp-discovery-cards.md#wholesale-catalog-discovery) for the next evidence and scope questions.

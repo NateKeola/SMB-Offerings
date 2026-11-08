@@ -1,10 +1,10 @@
 # Conversation and workstream index
 
-Updated 2026-11-07. This is a categorized, original synthesis of project direction, not a transcript archive. Read this page to find the right working document before starting another research or build thread.
+Updated 2026-11-08. This is a categorized, original synthesis of project direction, not a transcript archive. Read this page to find the right working document before starting another research or build thread.
 
 ## Two tracks, one learning loop
 
-**User direction:** Make the agency's work navigable and turn research into useful, evidence-backed lists for human sales conversations. The latest planning meeting favored a garment-wholesale product-search demonstration first. The subsequent conversation expands the shared discovery system and develops roofing as a separate learning track. It does not resolve which track receives the first commercial pilot.
+**User direction:** Make the agency's work navigable and turn research into useful, evidence-backed lists for human sales conversations. On 2026-11-08, the user made semantic product search for textile wholesalers in the Los Angeles area the main North Star: focus on the niche, develop a repeatable offering across multiple websites, then expand into other services. Roofing and broader discovery remain separate research tracks. The priority is selected; a buyer-validated ICP and paid pilot are not established.
 
 The loop is: choose a geography and customer task → discover a bounded sample → resolve identities → inspect real journeys → review evidence → prepare a call → record what the buyer says → revise the ICP and offer. The worst-looking site is not necessarily the best prospect.
 
@@ -13,7 +13,7 @@ The loop is: choose a geography and customer task → discover a bounded sample 
 | Topic from the conversation | Classification | Canonical home | Next useful artifact |
 |---|---|---|---|
 | Agency, website, name, offer menu and pitch preparation | Meeting direction; unfinished | [Agency working record](agency-direction-and-icp.md) | Scoped offer and honest demonstration before sales collateral claims |
-| Garment wholesalers and semantic product search | Initial meeting direction, not validated ICP | [Wholesale discovery card](icp-discovery-cards.md#wholesale-catalog-discovery) | Reproducible product task and integration questions |
+| Los Angeles textile wholesalers and semantic product search | Explicit first priority, 2026-11-08; not validated demand | [Wholesale discovery card](icp-discovery-cards.md#wholesale-catalog-discovery) | Reproducible product task, bounded demo and cross-website delivery questions |
 | Three roofing calls with different response setups | User-reported anecdote | [Field-evidence limits](agency-direction-and-icp.md#three-roofing-calls-preliminary-field-evidence) | Private mapping of each actual call and observation |
 | Learn roofing intake, inspection and quoting | User direction; workflow unknowns | [Roofing discovery card](icp-discovery-cards.md#roofing-inquiry-and-quote-preparation) | Buyer interview and one verified inquiry-path problem |
 | Enter a location and industry to find candidates | User-requested capability; design only | [Research harness](../architecture/prospect-research-harness.md) | Capped, repeatable discovery batch with coverage limits |
@@ -31,7 +31,7 @@ The loop is: choose a geography and customer task → discover a bounded sample 
 
 ## What changed and what did not
 
-- Earlier research described several possible industries. The meeting supplies a wholesale-first direction; the later conversation asks for a reusable location/industry engine and hands-on roofing discovery. Preserve both rather than silently choosing one.
+- Earlier research described several possible industries and left the first focus open. The 2026-11-08 decision selects Los Angeles textile-wholesaler semantic search first. Preserve the reusable location/industry design and roofing research for later expansion; do not erase that history or treat it as the current priority.
 - A missing number, search box or quote CTA is a **screening clue**. It becomes a finding only after identity, task, alternative route and reproduction checks. Lack of a particular feature does not establish lost sales.
 - Search visibility, website readiness, contact-path performance, delivery fit and willingness to pay remain separate. The existing audit rubric is an explainable research aid, not a ranking algorithm or buying-propensity model.
 - Strong competitor sites may teach navigation, information architecture and customer-task patterns. Use original copy/design and permitted assets; do not copy pages, testimonials, private data or paid ad campaigns.
@@ -43,6 +43,6 @@ Publish methods, decisions, source-qualified original summaries and empty templa
 
 Public source classes here are **user direction**, **meeting direction**, **reported observation**, **proposal** and **unknown**. The underlying private conversation and meeting are intentionally not linked. Their content is not independent proof of demand, conversion rates, legal requirements or commercial results. This index covers the relevant project themes, not every sentence or unrelated aside.
 
-## Next decision
+## Next step within the selected focus
 
-Use the existing private roofing examples for the first walkthrough while keeping wholesale discovery active as a distinct track. Confirm the next batch's geography, service/product category and cap in the batch brief. Record the first commercial focus only when the user decides it; do not delay useful read-only work merely because other choices are open.
+Define a bounded Los Angeles-area textile-wholesale discovery batch and one product-finding task for a permitted semantic-search demonstration. Exact area boundaries, product exclusions, buyer role, sample cap, catalog rights and acceptance criteria still need evidence or scope. Reuse suitable existing work, preserve the private roofing examples and distinguish the chosen focus from unproven demand. This is the proposed next preparation step, not a record of research, implementation or outreach already performed.

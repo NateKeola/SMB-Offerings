@@ -31,7 +31,7 @@ The recommendation is to build the measurement and eligibility layer and evaluat
 
 | Gap | Why it matters | Next useful evidence |
 |---|---|---|
-| Validated first live ICP/geography | Latest meeting favors wholesale garments; local-service alternatives remain under review | Confirm the first wedge, buyer/task, geography and pilot criteria using the [working record](../strategy/agency-direction-and-icp.md) |
+| Validated first live ICP | User selected Los Angeles-area textile-wholesaler semantic search on 2026-11-08; priority is not buyer validation | Define exact area/product scope, verify buyer/task pain and catalog access, then agree pilot criteria using the [working record](../strategy/agency-direction-and-icp.md) |
 | Real pipeline quality | Synthetic fixtures and a five-row registry sample are not a qualified lead list | A bounded permitted private sample with identity/task evidence |
 | Buyer demand / willingness to pay | Published vendor offers and appealing demos are not transactions | Authorized buyer conversations and a paid, scoped pilot |
 | Actual delivery/support economics | Modeled hours and churn can miss integration and incident cost | Time logs, provider bills, scope changes and customer outcomes |
@@ -75,3 +75,11 @@ The [conversation index](../strategy/conversation-index.md) maps the latest requ
 The next practical work is to reconcile existing private roofing examples, inspect permitted wholesale tasks, review the existing contractor app work and agree one common evidence contract. The initial commercial wedge and buyer-confirmed pain remain open. Public methods can guide private research, but no completed business audits or call outcomes are claimed by this documentation update.
 
 Baseline full repository validation passed on the existing PR head. Final scoped/full checks and publication verification belong in the PR and [validation record](validation.md). No package installation, outreach, paid source, live backend operation, other-branch edit, merge or deployment is part of this update.
+
+## 2026-11-08: Textile-wholesale priority recorded
+
+The user selected **semantic product search for textile wholesalers in the Los Angeles area** as the main North Star, with a repeatable offering across multiple wholesaler websites before expansion into other services. This resolves the first-focus question left open in the November 7 entries above. Roofing and broader research remain intact as background and later-expansion options.
+
+Current strategy, ICP cards and preparation prompts now reflect that sequence. No new market evidence, customer commitment, implementation or integration is claimed. Buyer-confirmed pain, precise batch boundaries, catalog permissions, pilot acceptance, willingness to pay and repeatable delivery economics remain open. Continue the existing draft PR; other branches and research packages remain separate.
+
+The user's product-search, inquiry/member-signup and chatbot screens are recorded as hypotheses. No search or form experiment was run here, and neither AI architecture nor backend connectivity is inferred from a public interface.

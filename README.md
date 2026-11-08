@@ -10,6 +10,8 @@ This repository contains strategy, operating preferences, research indexes, offe
 
 For the latest conversation, start with the [topic and workstream index](strategy/conversation-index.md). It connects the meeting, roofing field-learning, wholesale discovery, audit methods, contact records and next-step prompts without publishing private source material.
 
+**Current North Star, chosen by the user on 2026-11-08:** Semantic product search for textile wholesalers in the Los Angeles area. Develop a repeatable offering across multiple wholesaler websites, then expand into other services. See [current strategy and validation gaps](strategy/agency-direction-and-icp.md#current-north-star-los-angeles-textile-wholesaler-semantic-search). This is a priority decision, not proof of demand or a delivered product.
+
 1. Read [vision and preferences](strategy/vision-and-preferences.md) and [the decision register](strategy/decision-register.md).
 2. Review [current status and limits](status/current-state.md), then [the source projects and exact commits](status/source-projects.md).
 3. Use [opportunity qualification](strategy/opportunity-qualification.md) and [research protocol](research/research-protocol.md) to define a bounded batch.
@@ -77,7 +79,7 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Agency direction and ICP discovery — 2026-11-07
 
 - [Conversation and workstream index](strategy/conversation-index.md): the map from requested outcomes to the right document, with source classes, open decisions and public/private boundaries.
-- [Latest agency direction and open ICP questions](strategy/agency-direction-and-icp.md): wholesale-first meeting direction, candidate offer menu and the user's anonymized three-roofer anecdote. No final local-service ICP, adoption rate or search-ranking relationship is established.
+- [Latest agency direction and open ICP questions](strategy/agency-direction-and-icp.md): updated textile-wholesale/Los Angeles priority, candidate offer menu and the user's anonymized three-roofer anecdote. The niche is selected; buyer demand and pilot economics remain unvalidated. No adoption rate or search-ranking relationship is established.
 - [Evolving prospecting workflow](research/prospecting-workflow.md): capture the user's actual pathway, inspect customer tasks, compare service categories and preserve evidence/unknowns. Includes a proposed agent harness, not an implemented or authorized outreach system.
 - [Roofing and wholesale ICP cards](strategy/icp-discovery-cards.md): distinct buyer tasks, screening criteria, interviews, pilot outcomes and scope ladders.
 - [Location/industry research harness](architecture/prospect-research-harness.md): bounded discovery, source rights, identity, SEO/acquisition checks, explainable priority and learning/evaluation requirements. Design only.
