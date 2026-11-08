@@ -1,6 +1,6 @@
 # Private research and contact ledger — blank template
 
-Proposed field contract, updated 2026-11-07. Complete real records only in an approved private system. This public template contains no leads, contacts, private source links, communications or permission grants. Do not populate it in Git.
+Proposed field contract, updated 2026-11-08. Complete real records only in an approved private system. This public template contains no leads, contacts, private source links, communications or permission grants. Do not populate it in Git.
 
 ## Batch and business record
 
@@ -12,8 +12,12 @@ Proposed field contract, updated 2026-11-07. Complete real records only in an ap
 | Identity / operation | Official domain and source-backed association; current-operation/license checks where relevant |
 | Discovery provenance | Source URL, checked date, provider/query context, allowed reuse/storage and expiry |
 | Website / contact status | Observed present, no route found in specified checks, conflicting, unavailable or unknown; never infer absence from one field |
+| Website / public business phone | Verified values, source URLs, business/branch association and checked date; unresolved fields stay explicit rather than fabricated |
+| Revenue / sales evidence, when available | Value/range, currency, fiscal period, business/parent/branch scope, source URL/publisher and publication/check date; reported, estimated, disputed or unknown; visible methodology and limits |
 | Deduplication | Match signals, linked source records, reviewed merges and reversibility |
 | Status | Research stage, hold/disqualification reason, next verification and owner |
+
+Current textile-wholesale target: 100 distinct businesses across California, Oregon, Washington and Arizona, with Los Angeles first and Texas later. Report discovery, deduplication, assessment and qualification counts separately. No state quota is implied. Keep unsupported revenue unknown; traffic/headcount estimates are not actual sales. All populated rows remain private.
 
 ## Evidence and opportunity record
 

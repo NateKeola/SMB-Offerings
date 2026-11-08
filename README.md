@@ -12,6 +12,8 @@ For the latest conversation, start with the [topic and workstream index](strateg
 
 **Current North Star, chosen by the user on 2026-11-08:** Semantic product search for textile wholesalers in the Los Angeles area. Develop a repeatable offering across multiple wholesaler websites, then expand into other services. See [current strategy and validation gaps](strategy/agency-direction-and-icp.md#current-north-star-los-angeles-textile-wholesaler-semantic-search). This is a priority decision, not proof of demand or a delivered product.
 
+**Research target:** 100 textile wholesalers across California, Oregon, Washington and Arizona, with Los Angeles first and Texas later. The private list should include verified websites, public business phones and source-qualified revenue information where available. See [list requirements](strategy/icp-discovery-cards.md#requested-100-company-research-list) and the feasibility-dependent inventory-agent goal in the strategy. No populated list or live integration is claimed here.
+
 1. Read [vision and preferences](strategy/vision-and-preferences.md) and [the decision register](strategy/decision-register.md).
 2. Review [current status and limits](status/current-state.md), then [the source projects and exact commits](status/source-projects.md).
 3. Use [opportunity qualification](strategy/opportunity-qualification.md) and [research protocol](research/research-protocol.md) to define a bounded batch.

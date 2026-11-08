@@ -6,6 +6,8 @@ Updated 2026-11-08. This is a categorized, original synthesis of project directi
 
 **User direction:** Make the agency's work navigable and turn research into useful, evidence-backed lists for human sales conversations. On 2026-11-08, the user made semantic product search for textile wholesalers in the Los Angeles area the main North Star: focus on the niche, develop a repeatable offering across multiple websites, then expand into other services. Roofing and broader discovery remain separate research tracks. The priority is selected; a buyer-validated ICP and paid pilot are not established.
 
+The completed follow-up sets a private list target of 100 textile wholesalers across California, Oregon, Washington and Arizona, with Los Angeles first and Texas later. Seek websites, public business phones and source-qualified revenue information where available. An inventory-connected customer agent is a longer-term, feasibility-dependent goal. The separate service-business track compares query/location-specific SEO, forms and call/text evidence without inferring causation or authorizing outreach.
+
 The loop is: choose a geography and customer task → discover a bounded sample → resolve identities → inspect real journeys → review evidence → prepare a call → record what the buyer says → revise the ICP and offer. The worst-looking site is not necessarily the best prospect.
 
 ## Find the context by topic
@@ -14,6 +16,7 @@ The loop is: choose a geography and customer task → discover a bounded sample 
 |---|---|---|---|
 | Agency, website, name, offer menu and pitch preparation | Meeting direction; unfinished | [Agency working record](agency-direction-and-icp.md) | Scoped offer and honest demonstration before sales collateral claims |
 | Los Angeles textile wholesalers and semantic product search | Explicit first priority, 2026-11-08; not validated demand | [Wholesale discovery card](icp-discovery-cards.md#wholesale-catalog-discovery) | Reproducible product task, bounded demo and cross-website delivery questions |
+| 100 wholesalers across four states; websites, phones and revenue where available | User-requested private research target; not a completed list | [Research-list requirements](icp-discovery-cards.md#requested-100-company-research-list) | Deduplicated private list with sources, unknowns and coverage limits |
 | Three roofing calls with different response setups | User-reported anecdote | [Field-evidence limits](agency-direction-and-icp.md#three-roofing-calls-preliminary-field-evidence) | Private mapping of each actual call and observation |
 | Learn roofing intake, inspection and quoting | User direction; workflow unknowns | [Roofing discovery card](icp-discovery-cards.md#roofing-inquiry-and-quote-preparation) | Buyer interview and one verified inquiry-path problem |
 | Enter a location and industry to find candidates | User-requested capability; design only | [Research harness](../architecture/prospect-research-harness.md) | Capped, repeatable discovery batch with coverage limits |
@@ -26,7 +29,7 @@ The loop is: choose a geography and customer task → discover a bounded sample 
 | Learn from user-led website walkthroughs and interviews | User direction; proposed harness input | [Learning and evaluation](../architecture/prospect-research-harness.md#learn-from-walkthroughs-without-training-on-assumptions) | Reviewed examples, corrections and held-out evaluation |
 | Build in-house versus configure providers | Working preference; choice unresolved | [System boundaries](../architecture/system-and-integrations.md), [phone design](../opportunities/outbound-phone-audit/README.md) | Measured scope, operating cost and reliability comparison |
 | Revenue, traffic and business-value estimates | Meeting questions; unverified | [Evidence boundaries](../architecture/prospect-research-harness.md#tool-and-source-order) | Owner-authorized baselines or clearly labeled estimates |
-| Inventory and order creation | Future expansion, distinct from search | [Wholesale scope ladder](icp-discovery-cards.md#wholesale-catalog-discovery) | Authorized data contract before live operations |
+| Inventory-connected customer agent and order boundaries | User's longer-term goal; feasibility and authorization pending | [Wholesale scope ladder](icp-discovery-cards.md#scope-ladder) | Inventory/API/data contract and read/write scope before live operations |
 | Parallel Codex work and reusable prompts | User direction | [Staged next-step prompts](../codex/PROSPECTING-NEXT-STEPS.md) | Continue the correct branch/thread; avoid duplicate implementations |
 
 ## What changed and what did not
@@ -45,4 +48,4 @@ Public source classes here are **user direction**, **meeting direction**, **repo
 
 ## Next step within the selected focus
 
-Define a bounded Los Angeles-area textile-wholesale discovery batch and one product-finding task for a permitted semantic-search demonstration. Exact area boundaries, product exclusions, buyer role, sample cap, catalog rights and acceptance criteria still need evidence or scope. Reuse suitable existing work, preserve the private roofing examples and distinguish the chosen focus from unproven demand. This is the proposed next preparation step, not a record of research, implementation or outreach already performed.
+Prepare the 100-company textile-wholesale research scope across California, Oregon, Washington and Arizona, with a small Los Angeles-first review stage and one product-finding task for a permitted semantic-search demonstration. Exact local boundaries, product exclusions, buyer role, per-stage review cap, catalog rights and acceptance criteria still need evidence or scope. Reuse suitable existing work, preserve the private roofing examples and distinguish the chosen focus from unproven demand. This is the proposed next preparation step, not a record of research, implementation or outreach already performed.

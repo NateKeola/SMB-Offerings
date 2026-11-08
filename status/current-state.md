@@ -32,7 +32,7 @@ The recommendation is to build the measurement and eligibility layer and evaluat
 | Gap | Why it matters | Next useful evidence |
 |---|---|---|
 | Validated first live ICP | User selected Los Angeles-area textile-wholesaler semantic search on 2026-11-08; priority is not buyer validation | Define exact area/product scope, verify buyer/task pain and catalog access, then agree pilot criteria using the [working record](../strategy/agency-direction-and-icp.md) |
-| Real pipeline quality | Synthetic fixtures and a five-row registry sample are not a qualified lead list | A bounded permitted private sample with identity/task evidence |
+| Real pipeline quality | A 100-company textile-wholesale list is requested, not completed or buyer-qualified | LA-first private research across CA/OR/WA/AZ, with verified websites/phones, qualified revenue evidence where available, duplicates and shortfalls reported |
 | Buyer demand / willingness to pay | Published vendor offers and appealing demos are not transactions | Authorized buyer conversations and a paid, scoped pilot |
 | Actual delivery/support economics | Modeled hours and churn can miss integration and incident cost | Time logs, provider bills, scope changes and customer outcomes |
 | Workbench-to-engine automation | Current bridge is manual and requires fresh review | Versioned pending-suggestion adapter, exception handling and tests if justified |
@@ -83,3 +83,9 @@ The user selected **semantic product search for textile wholesalers in the Los A
 Current strategy, ICP cards and preparation prompts now reflect that sequence. No new market evidence, customer commitment, implementation or integration is claimed. Buyer-confirmed pain, precise batch boundaries, catalog permissions, pilot acceptance, willingness to pay and repeatable delivery economics remain open. Continue the existing draft PR; other branches and research packages remain separate.
 
 The user's product-search, inquiry/member-signup and chatbot screens are recorded as hypotheses. No search or form experiment was run here, and neither AI architecture nor backend connectivity is inferred from a public interface.
+
+## 2026-11-08: Completed research requirements recorded
+
+The private list target is now 100 textile wholesalers across California, Oregon, Washington and Arizona, prioritizing Los Angeles; Texas follows later. Required research includes websites and public business phones, plus source-qualified revenue/sales information where available. No list was populated or company revenue investigated by this documentation change.
+
+The longer-term direction is an inventory/backend-connected customer agent, subject to feasibility, rights and separately authorized integration. Service-business research remains a separate track with query/location-specific SEO comparisons, form usability and call/text evidence. Benchmark observations generate hypotheses, not causal proof. No calls, messages, submissions, monitoring schedule, live integrations or merge occurred.

@@ -54,7 +54,7 @@ Do not diagnose roof condition, structural safety or an emergency from a prospec
 
 | Dimension | Working hypothesis or required evidence |
 |---|---|
-| Selected starting segment | Textile wholesalers in the Los Angeles area; define the precise area, textile product scope, exclusions and batch cap before research |
+| Selected starting segment | Los Angeles-first textile wholesalers within a 100-company research target across California, Oregon, Washington and Arizona; Texas later. Define precise local boundaries, product scope, exclusions and staged review caps |
 | Buyer | Owner, sales operations, ecommerce lead or branch operations; verify authority and IT/data dependencies |
 | Customer task | Find a known item or suitable product using codes, description and attributes, then prepare a useful RFQ |
 | Compare like with like | Within textile wholesale, distinguish product range, catalog breadth, buyer type, geography and purchasing model; keep non-textile supplier comparisons separate |
@@ -66,6 +66,14 @@ Do not diagnose roof condition, structural safety or an emergency from a prospec
 | Pilot acceptance | Held-out product tasks meet agreed criteria; known-item accuracy, variant correctness and honest unknowns; no invented stock/price |
 | Integration discovery | Catalog/PIM/ERP source, update schedule, API/export permission, units, variants, pricing visibility and data owner |
 | Disqualifiers | No reproducible task gap, no usable rights/data, unreliable identifiers, unsupported safety-critical substitutions or too much integration for the pilot |
+
+### Requested 100-company research list
+
+The user requested 100 textile wholesalers across California, Oregon, Washington and Arizona, prioritizing Los Angeles first. Texas is later expansion. Count distinct businesses after identity and branch deduplication, keep the actual location separate from the areas served, and report coverage and shortfalls honestly. No per-state quota was chosen, and 100 researched candidates is not 100 qualified buyers.
+
+Required research fields are a verified website, a public business phone and revenue/sales information where supportable. For missing website/phone evidence, record unresolved status and the checks attempted rather than inventing a value. For revenue, retain the source URL/publisher, publication/check date, fiscal period, currency, entity scope, value or range, reported-versus-estimated status and any visible methodology/limitations. Prefer attributable company reports; label third-party estimates explicitly. Missing or conflicting figures remain unknown or disputed. Never convert traffic, headcount, apparent size or a directory range into claimed actual sales.
+
+Store actual rows only in the approved private research ledger. The public repository retains methods and blank fields. A revenue estimate is research context, not proof of budget, willingness to pay or opportunity quality.
 
 ### User-selected screening hypotheses
 
@@ -80,6 +88,8 @@ On 2026-11-08, the user described target candidates through product-search, inqu
 For each screen, retain observed working/friction, unknown, not assessable and not applicable outcomes. Compare the existing route and a working control before proposing a change. Buyer confirmation, catalog/system rights and separately authorized integration tests are required before describing a backend-dependent capability as verified. This documentation update does not perform those checks or authorize form submissions, account creation or live client testing.
 
 ### Scope ladder
+
+**User's longer-term goal:** A custom customer-facing agent connected to the wholesaler's inventory/backend. Progress depends on confirmed customer value, permitted access, usable system interfaces, freshness, authorization boundaries, feasible delivery cost and support. The stages below remain separate; the goal does not authorize any live integration or transaction.
 
 1. **Catalog demo:** A sample, freshness-stamped search experience. Not a live copy of the customer's system or proof of production readiness.
 2. **Read-only production search:** Authorized feed, access controls, incremental updates, evaluation, monitoring and fallback.
@@ -99,6 +109,8 @@ Do not assume products are equivalent solely from semantic similarity. For techn
 - What accuracy, support and commercial result would justify paying for the next stage?
 
 ## Expand only after comparing tasks
+
+For the separate service-business track, categorize SEO/search visibility for a specified query/location, form usability and call/text response evidence. Compare with leading sites for the same service and geography using the [comparison workflow](../research/prospecting-workflow.md#7-compare-strong-and-weak-journeys). A benchmark suggests hypotheses to test, not causal ranking factors or guaranteed improvements. Visible contact options are distinct from response tests; calls, texts and submissions require separate authorization.
 
 | Adjacent category | Reusable part | Must be rediscovered |
 |---|---|---|

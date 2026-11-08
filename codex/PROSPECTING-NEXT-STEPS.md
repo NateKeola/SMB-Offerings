@@ -24,6 +24,8 @@ Use strategy/icp-discovery-cards.md, research/prospecting-workflow.md and the ap
 
 Do not assume the AI/text/no-agent anecdotes map to specific businesses without confirmation. Do not submit forms or place calls. Use the existing SEO readiness/coverage rubric only for assessed checks, and keep acquisition findings and buyer validation separate. Turn findings into one useful factual observation and discovery questions, not an invented lost-revenue claim.
 
+For the broader service-business track, compare roofing, HVAC/AC repair, electrical or plumbing candidates with leading sites for the same specified query, location and search snapshot. Categorize SEO/search visibility, form usability and call/text evidence separately. Keep benchmarks as hypotheses rather than causal ranking explanations. Actual calls, texts, submissions and recurring monitoring require their own scope and authorization.
+
 **Deliver:** Private evidence cards and a human-call preparation brief; public-safe ICP refinements only. Ask for the next missing detail one at a time after checking supplied context.
 
 ## 3. Extend location and industry discovery
@@ -36,11 +38,15 @@ Use synthetic data until private access controls and storage are verified. Desig
 
 ## 4. Validate the wholesale wedge
 
-Use the wholesale card and any existing approved private list. Scope the first batch to textile wholesalers in the Los Angeles area, with explicit area/product boundaries and a cap. Confirm identity and the actual buying model before diagnosing public search. Test a known item, a realistic descriptive query and relevant variants/filters with a working control. Preserve sites whose customer route works well or cannot be assessed. Keep non-textile wholesale and local-service categories as later expansion, not a substitute first focus.
+Use the wholesale card and any existing approved private list. Target 100 distinct textile wholesalers across California, Oregon, Washington and Arizona, prioritizing Los Angeles first; Texas is later expansion. Set explicit local/product boundaries and staged review caps, resolve duplicates and report an honest shortfall. Confirm identity and the actual buying model before diagnosing public search. Test a known item, a realistic descriptive query and relevant variants/filters with a working control. Preserve sites whose customer route works well or cannot be assessed. Keep non-textile wholesale and local-service categories as later expansion, not a substitute first focus.
+
+Privately collect verified websites and public business phones. Investigate revenue/sales where credible permitted sources exist, retaining period, currency, entity scope, source/date and reported-versus-estimated status. Preserve unknowns and conflicts; do not infer actual revenue from traffic, employee count or website quality. Do not publish the populated list or private estimates in this repository.
 
 Apply the user's screening hypotheses to visible product-search behavior, inquiry/member-signup form usability and chatbot usefulness. A query such as an orange T-shirt is illustrative, not a universal catalog test. Do not infer AI architecture, backend connectivity, stock freshness or successful transactions from the public interface. Inspect without form submission, signup or record creation; leave backend behavior unknown until separately authorized evidence is available. A missing chatbot or form alone does not establish customer pain.
 
 Prepare questions that distinguish language/identifier search friction from stock, price, account access or operational issues. Recommend the smallest permitted semantic-search demonstration and required data contract. Identify what can be reused across wholesaler websites and what requires site-specific catalog mapping, integration and support; repeatability remains a hypothesis. Keep RFQ/order drafting, live stock, customer-specific pricing and backend order creation as separate scopes. Do not present a demo as deployed or fabricate commercial results.
+
+Preserve the user's longer-term goal of a custom customer-facing agent connected to inventory/backend systems. Assess system/API availability, data rights, freshness, customer permissions, read/write boundaries and support cost before recommending implementation. No live integration or transaction is authorized by this handoff.
 
 **Deliver:** Private evidence-backed shortlist or honest shortfall, owner questions, bounded demo scope and integration-risk assessment. No outreach or production data access.
 

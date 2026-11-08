@@ -8,11 +8,21 @@ Recorded 2026-11-07; priority updated 2026-11-08. This is an original, public-sa
 
 **Why this is the priority:** The user considers this the strongest signal and wants to concentrate effort on one niche. This records a strategic choice, not independently validated market demand or proof that semantic search will improve every website. Reuse across websites is an intended delivery model whose catalog differences, integration effort and support burden still need testing.
 
-**What remains to validate:** The buyer and exact product-finding task; repeated friction versus an effective existing search route; permission to use catalog data; identifiers, variants and freshness; willingness to pay; and a bounded pilot's acceptance criteria. The Los Angeles area is the starting geography; a precise boundary and sample cap belong in the next batch brief.
+**What remains to validate:** The buyer and exact product-finding task; repeated friction versus an effective existing search route; permission to use catalog data; identifiers, variants and freshness; willingness to pay; and a bounded pilot's acceptance criteria. Los Angeles remains the first priority within the broader research scope below; precise local boundaries and per-stage review caps still belong in the batch brief.
 
 **Sequence:** Prioritize textile catalog discovery and a bounded semantic-search demonstration. Preserve roofing, local-service and other wholesale research for later expansion and comparison. Do not treat those tracks as competing first priorities unless the user changes direction. Reliable production search, live inventory, order drafts and backend order creation remain separate scopes.
 
 **User's target-screening direction:** Look for wholesalers with weak or absent natural-language product search, poor inquiry or member-signup forms, or limited chatbot help with backend-dependent tasks. These are candidate screening hypotheses, not established pain or a requirement to add AI everywhere. Test the visible product-finding journey with a realistic descriptive query, such as an orange T-shirt, and inspect the relevant forms. A public search result cannot establish whether AI is used; a chat interface cannot establish backend connectivity. Record unknowns and verify the actual buyer workflow before proposing an offer. The discovery card defines the evidence boundaries.
+
+## Requested research scope and longer-term direction
+
+**Completed user direction, 2026-11-08:** Prepare a private research list with a target of **100 textile wholesalers across California, Oregon, Washington and Arizona**, prioritizing Los Angeles first. Texas is a later expansion after the initial market is better understood, not part of the initial 100-company scope. No state quotas or minimum revenue threshold were selected. Report an honest shortfall rather than padding the list with duplicates or unsuitable companies.
+
+For each candidate, seek a verified website and public business phone, plus company revenue or sales information where a credible permitted source is available. Preserve source, date/period, currency, company-versus-branch scope and whether a figure is reported or estimated. Revenue remains unknown when unsupported; traffic, employee counts, directory estimates and apparent website quality are not actual sales evidence. Actual company/contact rows and financial estimates belong in approved private storage, not this public repository.
+
+**Longer-term product goal:** A custom customer-facing agent connected to a wholesaler's inventory/backend, building on the semantic-search offer. Treat this as a feasibility-dependent direction. Catalog rights, system/API access, inventory freshness, customer permissions, pricing visibility, integration effort and support must be established. A search demonstration is not proof of live inventory access, and the goal does not authorize integration, account changes or order execution.
+
+**Separate service-business track:** For HVAC/AC repair, electrical, plumbing, roofing and similar services, compare SEO against leading sites for a specified query and location. Categorize search visibility, form usability and available call/text response evidence separately. Use dated, comparable observations to propose improvements; a leading site's features are not proof of ranking causation, conversion or the target company's needed changes. Calls, texts and submissions require their own authorization. The research method records what could be checked; it does not activate monitoring or outreach.
 
 ## Current direction from the planning conversation
 
@@ -76,7 +86,7 @@ Ask one question at a time during the working conversation; retain unknowns inst
 7. **Delivery fit:** Which data, permissions and integrations are available, and what must remain human-controlled?
 8. **Commercial test:** What bounded paid pilot and acceptance criteria would test willingness to pay?
 
-No minimum company size, revenue, search rank, review count or budget has been selected here. Earlier sourcing direction covered Los Angeles, Ventura and Santa Barbara counties, and the reusable discovery design supports configurable locations/industries. The current first focus is the Los Angeles area; define its exact boundary and batch cap without silently expanding it. See the [prospecting workflow](../research/prospecting-workflow.md) and [discovery cards](icp-discovery-cards.md) for a flexible way to preserve the user's actual pathway.
+No minimum company size, revenue, search rank, review count or budget has been selected here. Earlier sourcing direction covered Los Angeles, Ventura and Santa Barbara counties, and the reusable discovery design supports configurable locations/industries. The latest research target is 100 textile wholesalers across California, Oregon, Washington and Arizona, with Los Angeles first and Texas later. Define exact local boundaries, exclusions and staged review caps within that scope. See the [prospecting workflow](../research/prospecting-workflow.md) and [discovery cards](icp-discovery-cards.md) for a flexible way to preserve the user's actual pathway.
 
 ## Later conversation: turn observations into an operating system
 

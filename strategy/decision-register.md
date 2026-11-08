@@ -78,3 +78,13 @@ When the user changes a preference, record the date, new instruction and affecte
 **Superseded context:** The November 7 records left the first commercial focus open between wholesale and local services. That strategic choice is now resolved; a detailed validated ICP and pilot are still pending. Preserve those historical records, roofing observations and other research as background and later-expansion options.
 
 **Consequence:** Align current strategy, discovery cards and next-step guidance with the textile/Los Angeles focus. This update records direction only. It does not implement search, create another product, authorize outreach or integration, or merge any PR.
+
+## 2026-11-08: Research-list scope and inventory-agent goal
+
+**Completed user direction:** Target a private research list of 100 textile wholesalers across California, Oregon, Washington and Arizona, with Los Angeles first. Texas comes later after the initial market is better understood. Collect verified websites and public business phones, and investigate company revenue/sales where credible permitted sources exist. No per-state quota or revenue threshold was chosen.
+
+**Evidence rule:** Keep reported facts, third-party estimates, conflicting claims and unknowns separate, with entity scope, period, date, currency and source. A list target is not a promise of 100 qualified buyers. No actual company/contact rows or revenue estimates are published here.
+
+**Longer-term goal:** A custom customer-facing inventory/backend-connected agent, subject to access, data quality, permission boundaries, integration feasibility, delivery cost and support. Preserve the staged search, inventory and order-operation scopes; no live implementation is authorized by recording the goal.
+
+**Separate service track:** Categorize query/location-specific SEO comparisons, form usability and call/text response evidence for roofing, HVAC/AC repair, electrical, plumbing and similar businesses. Leading-site comparisons generate improvement hypotheses, not causal proof or guaranteed results. External outreach and live response testing require their own authorization. No recurring monitoring schedule is created by this documentation.

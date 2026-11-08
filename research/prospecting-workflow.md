@@ -97,19 +97,23 @@ Keep business/contact records, screenshots with personal data, call material and
 
 ## 6. Next capture
 
-Start with one of the three roofing examples, privately: **What did the user search, what site did they open, what did they try, and what happened when they called?** Check the supplied private worksheet before asking for facts already available. Ask for the next missing detail one at a time. Do not invent names, URLs, rankings or outcomes to fill the worksheet.
+The current priority is Los Angeles-first textile-wholesale discovery within the four-state, 100-company research target in the ICP card. Capture identity, website/phone sources and one real product-finding task before expanding assessment. For the separate service track, preserve the earlier roofing examples privately: **What did the user search, what site did they open, what did they try, and what happened when they called?** Check the supplied private worksheet before asking for facts already available. Ask for the next missing detail one at a time. Do not invent names, URLs, rankings or outcomes to fill the worksheet.
 
 ## 7. Compare strong and weak journeys
 
 The user wants to study effective same-industry websites and blogs, then turn useful patterns into improvements. A high search position, paid ad or polished site is a comparison candidate, not proof of conversion performance.
 
 1. Choose the same customer task, service/product type and relevant geography. Record why examples are comparable and what differs.
-2. Record the query and distinguish ads, Maps and organic results; inspect a bounded set of pages, not an invented exhaustive index.
+2. Record the exact query, location context, date/time, device, search surface, inspected depth and observed positions. Distinguish ads, Maps and organic results. Choose leading-site comparisons from that same bounded snapshot; a site is not universally first-page or lower-ranking across other queries and places.
 3. Map homepage → relevant service/product page → supporting information → contact/quote route. Include mobile behavior, visible trust evidence, CTA wording, fields and next-step expectations.
 4. For a useful blog/resource, record its URL, topic, user question, recency, original observations and links into a genuine service/product path. Volume, word count and keywords alone do not establish usefulness or ranking causation.
 5. Write the transferable pattern in original words: for example, clear service eligibility before an inquiry, or an appropriate RFQ route from a product page. Record the task benefit and a test that could confirm it.
 6. Distinguish structural inspiration from permission to reproduce text, photography, code, branding, testimonials or full pages. Build original assets/copy or use separately authorized material; do not create misleading local pages or false claims.
 
 Keep a private comparison matrix with tested page, task, working pattern, friction, visibility context, evidence date and untested conversion steps. A public pattern library should contain reviewed original summaries and permitted public sources, not prospect dossiers. It should improve the [ICP cards](../strategy/icp-discovery-cards.md), not replace buyer discovery.
+
+For roofing, HVAC/AC repair, electrical, plumbing and similar services, use three separate categories: **SEO/search visibility**, **form/inquiry usability**, and **call/text response evidence**. Retain observed working/friction, unknown and not-assessable states in each. Inspect visible forms and contact routes without submitting or contacting the business. Actual response quality requires existing authorized evidence or a separately authorized call/text test; a visible phone number or SMS option is not a response result.
+
+Compare the same service, market and customer task before suggesting changes. Leading sites can reveal useful structural patterns, but correlation does not establish why they rank, their conversion rate or which change would help the candidate. Record an improvement hypothesis, competing explanations and the next test. Any later monitoring needs an explicit scope, source and cadence; this method does not create a recurring job or authorize outreach.
 
 For source ordering, storage and automation acceptance, use the [research harness contract](../architecture/prospect-research-harness.md). For actual calls and follow-up outcomes, use the [private activity ledger](../templates/research-and-contact-ledger.md), not the public research notes.
