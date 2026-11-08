@@ -1,5 +1,7 @@
 # Primary-source bibliography
 
+Supplemental [SEO learning notes](learning-notes.md) preserve creator references separately from this historical 62-source register. The 2026-11-08 carousel note distinguishes fresh source checks, vendor observations and proposed applications; it does not refresh every entry below.
+
 > Preserved original public research from the [reviewed source commit](https://github.com/NateKeola/Dogfood/blob/171d93bd4635f68ffb9df26b83ef5acb0f2d297a/projects/seo-review/SOURCES.md). Historical review: 2026-11-02; consolidated 2026-11-03. External sources were not freshly rechecked for this handoff. Prices, access and platform guidance must be refreshed before operational use.
 
 

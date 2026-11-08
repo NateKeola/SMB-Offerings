@@ -4,6 +4,8 @@ This summarizes the toolkit reviewed **2026-11-02** at [commit 171d93bd](https:/
 
 The full [62-entry primary-source register is included here](source-register.md), including dates, source limitations and decisions affected by newer evidence.
 
+For later creator references and evidence-qualified takeaways, see [SEO learning notes](learning-notes.md). These supplement the toolkit without changing its scoring, launch gates or historical source inventory.
+
 ## Offer useful outcomes
 
 Sell a scoped search-readiness review, industry/intent brief, website-build specification, AI-search/agent-usability review, measurement plan or post-change verification. Each should explain what was observed, the source, business relevance, priority, lift, validation and limits. Keep local-service and wholesale buying tasks distinct. Qualitative research is not keyword-volume data.
