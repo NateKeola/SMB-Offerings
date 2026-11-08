@@ -31,8 +31,8 @@ The recommendation is to build the measurement and eligibility layer and evaluat
 
 | Gap | Why it matters | Next useful evidence |
 |---|---|---|
-| Chosen first live ICP/geography | Catalog and service profiles have different buyer/data needs | User choice after a small evidence-based comparison |
-| Real pipeline quality | Synthetic fixtures and a five-row registry sample are not a qualified lead list | A bounded permitted private sample with identity/task evidence |
+| Validated first live ICP | User selected Los Angeles-area textile-wholesaler semantic search on 2026-11-08; priority is not buyer validation | Define exact area/product scope, verify buyer/task pain and catalog access, then agree pilot criteria using the [working record](../strategy/agency-direction-and-icp.md) |
+| Real pipeline quality | A 100-company textile-wholesale list is requested, not completed or buyer-qualified | LA-first private research across CA/OR/WA/AZ, with verified websites/phones, qualified revenue evidence where available, duplicates and shortfalls reported |
 | Buyer demand / willingness to pay | Published vendor offers and appealing demos are not transactions | Authorized buyer conversations and a paid, scoped pilot |
 | Actual delivery/support economics | Modeled hours and churn can miss integration and incident cost | Time logs, provider bills, scope changes and customer outcomes |
 | Workbench-to-engine automation | Current bridge is manual and requires fresh review | Versioned pending-suggestion adapter, exception handling and tests if justified |
@@ -59,3 +59,33 @@ Added [nine categorized research documents](../research/idea-mining/README.md), 
 These are original reusable research/design prompts and hypotheses, not new real customer audits, lead records, implemented agents or verified business results. Factory context discipline is applied without installing or activating the dormant harness. Next step: choose a bounded market/task sample and collect permitted evidence; no outreach or execution is authorized by the prompts.
 
 At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood has no open PRs. Earlier five-open-draft wording is historical. The new work does not merge or modify those branches. See [validation and limits](../research/idea-mining/validation.md), including the unrun full repository validator.
+
+## 2026-11-07 — Agency direction and field-learning record
+
+Added a [public-safe planning synthesis](../strategy/agency-direction-and-icp.md) and [evolving prospecting workflow](../research/prospecting-workflow.md). The meeting's initial direction is wholesale garment search; the user is separately exploring roofing/local-service intake and wants incremental ICP questions. The candidate menu and proposed harness are documentation, not built capabilities.
+
+At the initial capture, new evidence was limited to the user's anecdotal report of three roofing calls: one AI agent, one text agent and one with no agent observed. The last reportedly appeared farther from the first search-results page. Detailed source reconciliation was pending. The later conversation points to a private worksheet; use it privately without guessing the response-setup mapping. Exact queries/positions and outcomes still need verification. No market-prevalence, ranking-causation, financial-loss or willingness-to-pay conclusion follows.
+
+The initial pass made no calls or submissions, contacted no prospects, built no application, activated no providers and merged no PR. Sensitive business details, private links, transcripts and client records were excluded. Its scoped checks and exact remote readback are historical evidence; the subsequent full repository check is recorded below and in [validation](validation.md).
+
+## 2026-11-07 — Navigable discovery and acquisition framework
+
+The [conversation index](../strategy/conversation-index.md) maps the latest request to separate [roofing and wholesale ICP cards](../strategy/icp-discovery-cards.md), website-comparison methods, [location/industry research-harness requirements](../architecture/prospect-research-harness.md), [private contact/activity fields](../templates/research-and-contact-ledger.md) and [staged prompts](../codex/PROSPECTING-NEXT-STEPS.md). These are substantive design and preparation artifacts, not an implemented crawler, live database or verified prospect list.
+
+The next practical work is to reconcile existing private roofing examples, inspect permitted wholesale tasks, review the existing contractor app work and agree one common evidence contract. The initial commercial wedge and buyer-confirmed pain remain open. Public methods can guide private research, but no completed business audits or call outcomes are claimed by this documentation update.
+
+Baseline full repository validation passed on the existing PR head. Final scoped/full checks and publication verification belong in the PR and [validation record](validation.md). No package installation, outreach, paid source, live backend operation, other-branch edit, merge or deployment is part of this update.
+
+## 2026-11-08: Textile-wholesale priority recorded
+
+The user selected **semantic product search for textile wholesalers in the Los Angeles area** as the main North Star, with a repeatable offering across multiple wholesaler websites before expansion into other services. This resolves the first-focus question left open in the November 7 entries above. Roofing and broader research remain intact as background and later-expansion options.
+
+Current strategy, ICP cards and preparation prompts now reflect that sequence. No new market evidence, customer commitment, implementation or integration is claimed. Buyer-confirmed pain, precise batch boundaries, catalog permissions, pilot acceptance, willingness to pay and repeatable delivery economics remain open. Continue the existing draft PR; other branches and research packages remain separate.
+
+The user's product-search, inquiry/member-signup and chatbot screens are recorded as hypotheses. No search or form experiment was run here, and neither AI architecture nor backend connectivity is inferred from a public interface.
+
+## 2026-11-08: Completed research requirements recorded
+
+The private list target is now 100 textile wholesalers across California, Oregon, Washington and Arizona, prioritizing Los Angeles; Texas follows later. Required research includes websites and public business phones, plus source-qualified revenue/sales information where available. No list was populated or company revenue investigated by this documentation change.
+
+The longer-term direction is an inventory/backend-connected customer agent, subject to feasibility, rights and separately authorized integration. Service-business research remains a separate track with query/location-specific SEO comparisons, form usability and call/text evidence. Benchmark observations generate hypotheses, not causal proof. No calls, messages, submissions, monitoring schedule, live integrations or merge occurred.
