@@ -59,3 +59,7 @@ Added [nine categorized research documents](../research/idea-mining/README.md), 
 These are original reusable research/design prompts and hypotheses, not new real customer audits, lead records, implemented agents or verified business results. Factory context discipline is applied without installing or activating the dormant harness. Next step: choose a bounded market/task sample and collect permitted evidence; no outreach or execution is authorized by the prompts.
 
 At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood has no open PRs. Earlier five-open-draft wording is historical. The new work does not merge or modify those branches. See [validation and limits](../research/idea-mining/validation.md), including the unrun full repository validator.
+
+## 2026-11-08 — Funeral-home voice services
+
+Added the [public-source funeral-home audit](../research/funeral-home-voice/README.md), mirrored in Dogfood. A funeral-specific Reel supports a demo pitch, not a verified paid deployment. Established human answering providers and operational risks make an evidence-led, human-backed audit preferable to assuming unmet need. Proposed economics and acceptance tests remain unvalidated. No calls, outreach, private lead publication, deployment or merge. See [verification and handoff](../research/funeral-home-voice/validation.md).
