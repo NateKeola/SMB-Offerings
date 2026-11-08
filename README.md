@@ -71,3 +71,7 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Research prompts and categorized ideas — 2026-11-06
 
 - [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
+
+## Funeral-home voice audit — 2026-11-08
+
+- [RingHouse offer and funeral-home industry audit](research/funeral-home-voice/README.md): evidence-qualified pitch analysis, incumbents, workflow, compliance, economics and an audit-first validation plan. Research only; no live calls, customer results or deployed agents.
