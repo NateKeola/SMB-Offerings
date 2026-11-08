@@ -40,3 +40,11 @@ When the user changes a preference, record the date, new instruction and affecte
 **Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
 
 **Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
+
+## 2026-11-08 — Funeral-home voice research
+
+**User research direction:** Identify the service pitched to funeral homes and audit the industry. Preserve public-safe research in SMB-Offerings and mirror it in Dogfood.
+
+**Recommendation, not a market selection:** [Audit existing response and handoff workflows](../research/funeral-home-voice/README.md) before proposing AI. Compare improving incumbent human coverage with narrow automation. Replacing bereavement first calls by default is not justified by an edited demo or absence of AI.
+
+**Scope:** Documentation-only isolated drafts. Vendor claims, independently observed facts, proposed controls and unknowns are separated. No private prospect records, calls, live integration, provider activation or merger of other drafts.
