@@ -50,6 +50,21 @@ Qualifications:
 
 Original adaptation: verify a bounded sample and prioritize user/search-intent problems using [the audit framework](seo-audit.md), keeping public evidence separate from owner-only analytics.
 
+## Steven Law: manufacturer purchase-order automation
+
+**Marked interest:** Nate liked this idea and asked to mark it. Saved as an interested research reference, not a selected offering or commitment to build.
+
+Source: https://www.instagram.com/reels/DfNjW_rBadE/
+Public author: @steven.law_. Review date: 2026-11-09 UTC. Publication date unknown. Duration approximately 55 seconds.
+
+**Observed idea:** An AI agency offer centered on automating purchase-order intake for manufacturers. Visible graphics identify a 50–250-employee manufacturer segment, show Apollo filtering for that segment, and describe reading purchase orders and entering them into the customer's ERP.
+
+The visible caption frames the pitch as taking an AI agency from $0 to $13k. This is the creator's framing, not independently verified revenue, a forecast or evidence of customer demand. Other visible graphics refer to a free 15-minute interaction; its exact scope was not established in the sampled review.
+
+**Review limits:** The caption and sampled on-screen graphics were reviewed in muted browser playback. Audio was not transcribed; this is not a complete account of every spoken step. No media was downloaded or rehosted, and no workflow, integration, sales result or company example was independently verified.
+
+**Potential next step, not initiated:** Validate real purchase-order handling friction and ERP requirements with a willing manufacturer before considering a bounded demonstration. This bookmark authorizes no outreach, scraping, integration, purchase or deployment.
+
 ## Existing research, preserved rather than rewritten
 
 - [Historical 15-reference archive](https://github.com/NateKeola/Dogfood/blob/ebfbd71319364fe803b82bbd7af7e58434d667e5/projects/idea-archive/data/ideas.json): dated observations, not current metric checks.

@@ -40,3 +40,7 @@ When the user changes a preference, record the date, new instruction and affecte
 **Reasoning:** A categorized, source-qualified package supports bounded research without mistaking tutorials, legal checklists or proposed agents for validated offers.
 
 **Context:** Fresh documentation branch from main; existing SMB draft PRs #3/#4 preserved. No merge, deployment, outreach, lead collection, paid tool or schedule. Full repository validator remains unrun; scoped checks and publication readback are documented in the package. Dogfood currently has no open PRs at pre-publication inspection; earlier statements above about five open drafts describe the historical snapshot, not current status.
+
+## 2026-11-09 UTC — Steven Law idea marked
+
+**User direction:** Mark the shared Steven Law Reel as an idea of interest. The [source-qualified bookmark](../research/idea-mining/sources-and-reels.md#steven-law-manufacturer-purchase-order-automation) concerns manufacturer purchase-order intake and ERP entry. Interest is not a chosen first ICP, build decision or authorization for outreach; the creator's revenue framing remains unverified.
