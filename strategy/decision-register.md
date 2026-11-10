@@ -29,6 +29,8 @@ Baseline consolidated 2026-11-03. These entries retain the latest known directio
 
 ## Change protocol
 
+**2026-11-08, documentation decision:** Retain the [Lawrence Hitches SEO carousel](../seo/learning-notes.md) as an attributed, qualified learning note. Keep creator advice separate from the historical primary-source register and existing audit rubric. No new ranking rules, provider activation or customer-results claim follows from this reference.
+
 When the user changes a preference, record the date, new instruction and affected workflow. Keep the previous entry as superseded history if it matters. New source evidence can change a factual assessment but cannot authorize outreach, spending or production work. Do not infer that elapsed time lifted a hold.
 
 ## 2026-11-06 — Categorized research prompts and Dogfood mirror

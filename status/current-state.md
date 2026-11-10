@@ -4,6 +4,8 @@ Snapshot: 2026-11-03. This is a curated handoff of the available project record,
 
 ## Completed work
 
+- 2026-11-08: Added a public-safe [SEO carousel learning note](../seo/learning-notes.md), including reviewed coverage, selective source checks, evidence limits and a proposed one-page application. Documentation only; no client audit, media reuse, outreach, merge or deployment.
+
 - Public idea archive with exact references, observed audience metrics, evidence limitations, original briefs and six prototype directions.
 - Separate private local research workbench and outreach CLI, including shared gates and two implemented audit profiles in the CLI.
 - Evidence-led SEO/AI-search toolkit and website acceptance framework.
