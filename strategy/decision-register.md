@@ -44,3 +44,7 @@ When the user changes a preference, record the date, new instruction and affecte
 ## 2026-11-09 UTC — Steven Law idea marked
 
 **User direction:** Mark the shared Steven Law Reel as an idea of interest. The [source-qualified bookmark](../research/idea-mining/sources-and-reels.md#steven-law-manufacturer-purchase-order-automation) concerns manufacturer purchase-order intake and ERP entry. Interest is not a chosen first ICP, build decision or authorization for outreach; the creator's revenue framing remains unverified.
+
+## 2026-11-17: competitor research retention
+
+User direction: keep the Certified AI Partners audit handy in Dogfood or SMB Offerings. Saved the public-safe original digest and source inventory in [SMB Offerings research](../research/competitors/certified-ai-partners/README.md); retained private baseline references and the full audit outside this public repository. This does not authorize copying competitor assets, executing outreach or launching site changes.
