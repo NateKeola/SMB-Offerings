@@ -63,3 +63,7 @@ At pre-publication inspection, SMB PRs #3 and #4 remain open drafts and Dogfood 
 ## 2026-11-09 UTC — Manufacturer purchase-order idea bookmarked
 
 Marked the [Steven Law Reel](../research/idea-mining/sources-and-reels.md#steven-law-manufacturer-purchase-order-automation) as an idea of interest, with source attribution and muted sampled-review limits. This adds a research reference only; no prototype, customer validation or live integration was completed.
+
+## Research preservation — 2026-11-17
+
+Added [Certified AI Partners findings and source map](../research/competitors/certified-ai-partners/README.md). This is a public-safe digest of a dated audit, not a full raw archive. The complete audit was delivered privately; submission-only states and all-path/mobile coverage remain unverified. No website implementation or launch activation is implied.

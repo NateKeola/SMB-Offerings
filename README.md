@@ -71,3 +71,7 @@ This public repository excludes real leads, contacts, private reports, credentia
 ## Research prompts and categorized ideas — 2026-11-06
 
 - [SMB idea mining and reusable research prompts](research/idea-mining/README.md): evidence-backed SEO, permitted lead sourcing, rights-aware redesign, compliance research, review assistance and after-hours intake. Includes three qualified Reel takeaways, source limits and validation. Documentation only; no outreach or implementation.
+
+## Competitor website research — 2026-11-17
+
+- [Certified AI Partners website map and reusable findings](research/competitors/certified-ai-partners/README.md): public-safe digest and 53-page source index. Full private-reference audit retained separately; no site changes or outreach.
